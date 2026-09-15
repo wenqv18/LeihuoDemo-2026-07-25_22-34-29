@@ -2,21 +2,22 @@
 %TAG !u! tag:unity3d.com,2011:
 --- !u!78 &1
 TagManager:
-  serializedVersion: 2
-  tags: []
+  serializedVersion: 3
+  tags:
+  - Goal
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Ground
   - Water
   - UI
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Player
+  - InteractTrigger
+  - NPC
+  - CutsceneObj
+  - MovingPlatform
+  - Environment
   - 
   - 
   - 
@@ -41,3 +42,36 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Sky
+    uniqueID: 2135055605
+    locked: 0
+  - name: Background
+    uniqueID: 3552112815
+    locked: 0
+  - name: SpecialWorldInteractionBackground
+    uniqueID: 2636294629
+    locked: 0
+  - name: InteractionBackground
+    uniqueID: 567881117
+    locked: 0
+  - name: 
+    uniqueID: 1362669425
+    locked: 0
+  - name: NPC
+    uniqueID: 3512722463
+    locked: 0
+  - name: Player
+    uniqueID: 299270039
+    locked: 0
+  - name: Foreground
+    uniqueID: 2427622335
+    locked: 0
+  - name: Ground
+    uniqueID: 1852222175
+    locked: 0
+  - name: UI
+    uniqueID: 1932401761
+    locked: 0
+  m_RenderingLayers:
+  - Default
+  m_MigratedRenderPipelines: []

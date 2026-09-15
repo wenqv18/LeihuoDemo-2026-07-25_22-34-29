@@ -1,0 +1,24 @@
+special	normal_ref	n_size	s_size	n_bbox	s_bbox	w_ratio	h_ratio	bottom_delta
+Background.png	background.png	(4096, 1399)	(4096, 1397)	(4096, 1399)	(4096, 1397)	1.0	0.999	-2
+Books.png	book.png	(149, 124)	(149, 124)	(149, 124)	(149, 124)	1.0	1.0	0
+Computer.png	computer.png	(768, 692)	(768, 692)	(569, 474)	(571, 476)	1.004	1.004	1
+Cup.png	cup.png	(50, 67)	(50, 67)	(50, 67)	(50, 67)	1.0	1.0	0
+Cup2.png	cup.png	(50, 67)	(50, 67)	(50, 67)	(50, 67)	1.0	1.0	0
+ElectricalPanel.png	electricalpanel.png	(490, 810)	(490, 810)	(415, 699)	(417, 701)	1.005	1.003	1
+HangingLamp.png	hanginglamp.png	(556, 694)	(556, 694)	(480, 594)	(482, 596)	1.004	1.003	1
+LeftBookShelf.png	leftbookshelf.png	(429, 613)	(429, 613)	(429, 613)	(429, 613)	1.0	1.0	0
+Map.png	map.png	(993, 786)	(993, 786)	(884, 571)	(886, 573)	1.002	1.004	1
+Memo_01.png	memo_01.png	(358, 374)	(358, 374)	(296, 314)	(298, 316)	1.007	1.006	1
+Memo_02.png	memo_02.png	(242, 392)	(242, 392)	(208, 333)	(210, 335)	1.01	1.006	1
+Memo_03.png	memo_03.png	(432, 278)	(432, 278)	(373, 237)	(375, 239)	1.005	1.008	1
+Memo_04.png	memo_04.png	(504, 332)	(504, 332)	(392, 275)	(394, 277)	1.005	1.007	1
+Printer.png	printer.png	(185, 115)	(185, 115)	(185, 115)	(185, 115)	1.0	1.0	0
+RightBookShelf.png	rightbookshelf.png	(437, 613)	(437, 613)	(437, 613)	(437, 613)	1.0	1.0	0
+SecurityCamera.png	securitycamera.png	(876, 536)	(876, 536)	(752, 462)	(754, 464)	1.003	1.004	1
+Shelf.png	shelf.png	(566, 912)	(566, 912)	(461, 775)	(463, 777)	1.004	1.003	1
+Table.png	table.png	(570, 331)	(570, 331)	(570, 331)	(570, 331)	1.0	1.0	0
+UIBackground.jpg	uibackground	(4096, 1399)	(4096, 1397)	(4096, 1399)	(4096, 1397)	1.0	0.999	-2
+Water1.png	water.png	(139, 480)	(139, 480)	(139, 480)	(139, 480)	1.0	1.0	0
+Window.png	window.png	(365, 436)	(365, 436)	(365, 436)	(365, 436)	1.0	1.0	0
+Window2.png	window.png	(365, 436)	(365, 436)	(365, 436)	(365, 436)	1.0	1.0	0
+Window3.png	window.png	(365, 436)	(365, 436)	(365, 436)	(365, 436)	1.0	1.0	0

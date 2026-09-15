@@ -1,0 +1,4966 @@
+fileFormatVersion: 2
+guid: 227dbc6a6f8e09b47a26a49ea54f0ca7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3047540667355420191
+    second: SignalNoise_0
+  - first:
+      213: -5163155501493910528
+    second: SignalNoise_1
+  - first:
+      213: 6605223521821801072
+    second: SignalNoise_2
+  - first:
+      213: 5643629920132795304
+    second: SignalNoise_3
+  - first:
+      213: -6252389610834994889
+    second: SignalNoise_4
+  - first:
+      213: 5347702630943610430
+    second: SignalNoise_5
+  - first:
+      213: 409487072541714453
+    second: SignalNoise_6
+  - first:
+      213: -7348772594625306301
+    second: SignalNoise_7
+  - first:
+      213: 7969423323571920820
+    second: SignalNoise_8
+  - first:
+      213: -5949323678440387903
+    second: SignalNoise_9
+  - first:
+      213: 1818222358043081440
+    second: SignalNoise_10
+  - first:
+      213: -1647819414470349290
+    second: SignalNoise_11
+  - first:
+      213: 3761503018509633620
+    second: SignalNoise_12
+  - first:
+      213: -8707406885939593609
+    second: SignalNoise_13
+  - first:
+      213: -2780493908373405164
+    second: SignalNoise_14
+  - first:
+      213: -1419280794826886881
+    second: SignalNoise_15
+  - first:
+      213: 5156976935547359460
+    second: SignalNoise_16
+  - first:
+      213: 5031076834594953275
+    second: SignalNoise_17
+  - first:
+      213: 3782362376898799276
+    second: SignalNoise_18
+  - first:
+      213: -8218020611441541220
+    second: SignalNoise_19
+  - first:
+      213: -5748757015009385766
+    second: SignalNoise_20
+  - first:
+      213: 2826400410164531984
+    second: SignalNoise_21
+  - first:
+      213: 1465117879567659392
+    second: SignalNoise_22
+  - first:
+      213: -1879710595631994583
+    second: SignalNoise_23
+  - first:
+      213: -3406547441042176176
+    second: SignalNoise_24
+  - first:
+      213: -3738894113944291181
+    second: SignalNoise_25
+  - first:
+      213: 4538979483404055598
+    second: SignalNoise_26
+  - first:
+      213: -8558570803158154229
+    second: SignalNoise_27
+  - first:
+      213: 1791794377131499185
+    second: SignalNoise_28
+  - first:
+      213: -2536089449423983748
+    second: SignalNoise_29
+  - first:
+      213: 4041099841417066653
+    second: SignalNoise_30
+  - first:
+      213: -1161898512548352928
+    second: SignalNoise_31
+  - first:
+      213: 2127073777977232733
+    second: SignalNoise_32
+  - first:
+      213: 7667947844387889676
+    second: SignalNoise_33
+  - first:
+      213: -6752038587055218106
+    second: SignalNoise_34
+  - first:
+      213: -8557487063066324714
+    second: SignalNoise_35
+  - first:
+      213: 3682728367027134439
+    second: SignalNoise_36
+  - first:
+      213: -1728549682716114335
+    second: SignalNoise_37
+  - first:
+      213: 5880084386035134860
+    second: SignalNoise_38
+  - first:
+      213: 3601634158427870467
+    second: SignalNoise_39
+  - first:
+      213: -4033636057587182315
+    second: SignalNoise_40
+  - first:
+      213: -3639509090088243066
+    second: SignalNoise_41
+  - first:
+      213: 1350409483087521890
+    second: SignalNoise_42
+  - first:
+      213: -1022463485609600210
+    second: SignalNoise_43
+  - first:
+      213: 6351313491679383878
+    second: SignalNoise_44
+  - first:
+      213: 30507107165249066
+    second: SignalNoise_45
+  - first:
+      213: -4105345106974405525
+    second: SignalNoise_46
+  - first:
+      213: 5332755490761226797
+    second: SignalNoise_47
+  - first:
+      213: 4885140562887378662
+    second: SignalNoise_48
+  - first:
+      213: 4573211005077044767
+    second: SignalNoise_49
+  - first:
+      213: -210528086339062348
+    second: SignalNoise_50
+  - first:
+      213: -406648940786419296
+    second: SignalNoise_51
+  - first:
+      213: -3917595284933590722
+    second: SignalNoise_52
+  - first:
+      213: 3078704821789048561
+    second: SignalNoise_53
+  - first:
+      213: -5120165442527823649
+    second: SignalNoise_54
+  - first:
+      213: 8515177582130543073
+    second: SignalNoise_55
+  - first:
+      213: 321948986372405875
+    second: SignalNoise_56
+  - first:
+      213: 4734556772113898730
+    second: SignalNoise_57
+  - first:
+      213: 3006344015056932666
+    second: SignalNoise_58
+  - first:
+      213: 4053524753673606611
+    second: SignalNoise_59
+  - first:
+      213: 7221142448643203898
+    second: SignalNoise_60
+  - first:
+      213: -5886887014138564455
+    second: SignalNoise_61
+  - first:
+      213: -5196853063511379162
+    second: SignalNoise_62
+  - first:
+      213: -7871396862276453360
+    second: SignalNoise_63
+  - first:
+      213: 4411866565080500337
+    second: SignalNoise_64
+  - first:
+      213: -1739335638281149957
+    second: SignalNoise_65
+  - first:
+      213: 7243576703708369000
+    second: SignalNoise_66
+  - first:
+      213: -5270229614095830593
+    second: SignalNoise_67
+  - first:
+      213: -777705549940388097
+    second: SignalNoise_68
+  - first:
+      213: -5012712023018383791
+    second: SignalNoise_69
+  - first:
+      213: -918420038287372116
+    second: SignalNoise_70
+  - first:
+      213: 1483348989692793045
+    second: SignalNoise_71
+  - first:
+      213: 1775319319048961305
+    second: SignalNoise_72
+  - first:
+      213: -3122677144928987614
+    second: SignalNoise_73
+  - first:
+      213: 7536277645655299530
+    second: SignalNoise_74
+  - first:
+      213: 6531176732159503770
+    second: SignalNoise_75
+  - first:
+      213: -3288986482013031797
+    second: SignalNoise_76
+  - first:
+      213: -4676424460160760157
+    second: SignalNoise_77
+  - first:
+      213: -1446443634983937845
+    second: SignalNoise_78
+  - first:
+      213: 7621852756011215726
+    second: SignalNoise_79
+  - first:
+      213: -1951420874536779411
+    second: SignalNoise_80
+  - first:
+      213: 6137161007518683141
+    second: SignalNoise_81
+  - first:
+      213: 3593325072442422712
+    second: SignalNoise_82
+  - first:
+      213: 6833118395828573922
+    second: SignalNoise_83
+  - first:
+      213: -9117118063602184296
+    second: SignalNoise_84
+  - first:
+      213: -4634422318813812368
+    second: SignalNoise_85
+  - first:
+      213: -991098365411082979
+    second: SignalNoise_86
+  - first:
+      213: -3118372735775565536
+    second: SignalNoise_87
+  - first:
+      213: 1852652656391422647
+    second: SignalNoise_88
+  - first:
+      213: -8500278588795839667
+    second: SignalNoise_89
+  - first:
+      213: 4010067370262953461
+    second: SignalNoise_90
+  - first:
+      213: -4450074949901749382
+    second: SignalNoise_91
+  - first:
+      213: -3984728824210538256
+    second: SignalNoise_92
+  - first:
+      213: -3923240409589084295
+    second: SignalNoise_93
+  - first:
+      213: 6525363937750200956
+    second: SignalNoise_94
+  - first:
+      213: -2699143060595916532
+    second: SignalNoise_95
+  - first:
+      213: 1695767486457800439
+    second: SignalNoise_96
+  - first:
+      213: -5473809923770269921
+    second: SignalNoise_97
+  - first:
+      213: 8767299285750957653
+    second: SignalNoise_98
+  - first:
+      213: 8044363962496968801
+    second: SignalNoise_99
+  - first:
+      213: -9046996868841410143
+    second: SignalNoise_100
+  - first:
+      213: -993856021450896553
+    second: SignalNoise_101
+  - first:
+      213: 291110688873799294
+    second: SignalNoise_102
+  - first:
+      213: 2484219370035963823
+    second: SignalNoise_103
+  - first:
+      213: 8442099010923390726
+    second: SignalNoise_104
+  - first:
+      213: -1508362765393666840
+    second: SignalNoise_105
+  - first:
+      213: -3326552744397871025
+    second: SignalNoise_106
+  - first:
+      213: 3895498675000430618
+    second: SignalNoise_107
+  - first:
+      213: 3479874519496597857
+    second: SignalNoise_108
+  - first:
+      213: -5071868243822773684
+    second: SignalNoise_109
+  - first:
+      213: -4210100273817240934
+    second: SignalNoise_110
+  - first:
+      213: 8151675655173520223
+    second: SignalNoise_111
+  - first:
+      213: -5137203183149080913
+    second: SignalNoise_112
+  - first:
+      213: -8578161658507176115
+    second: SignalNoise_113
+  - first:
+      213: -7276043064351118504
+    second: SignalNoise_114
+  - first:
+      213: 516700489817885339
+    second: SignalNoise_115
+  - first:
+      213: -2888953696579813090
+    second: SignalNoise_116
+  - first:
+      213: 1074608441486432029
+    second: SignalNoise_117
+  - first:
+      213: 6215686457841857762
+    second: SignalNoise_118
+  - first:
+      213: -8737751095171078993
+    second: SignalNoise_119
+  - first:
+      213: 8509195008089880710
+    second: SignalNoise_120
+  - first:
+      213: -1998985234459972520
+    second: SignalNoise_121
+  - first:
+      213: 7996908305059203533
+    second: SignalNoise_122
+  - first:
+      213: -5769970781458522144
+    second: SignalNoise_123
+  - first:
+      213: -60607652115324081
+    second: SignalNoise_124
+  - first:
+      213: -4417642228110263083
+    second: SignalNoise_125
+  - first:
+      213: -9040255265308280911
+    second: SignalNoise_126
+  - first:
+      213: -5689922302795261040
+    second: SignalNoise_127
+  - first:
+      213: -544714040557505589
+    second: SignalNoise_128
+  - first:
+      213: 7189651076663854815
+    second: SignalNoise_129
+  - first:
+      213: -5975645926414318648
+    second: SignalNoise_130
+  - first:
+      213: 6987353353413477247
+    second: SignalNoise_131
+  - first:
+      213: 3690229511167591609
+    second: SignalNoise_132
+  - first:
+      213: 676113809306366148
+    second: SignalNoise_133
+  - first:
+      213: -1511519661895292969
+    second: SignalNoise_134
+  - first:
+      213: -4177136858983567712
+    second: SignalNoise_135
+  - first:
+      213: 6224058442394842448
+    second: SignalNoise_136
+  - first:
+      213: 6040531475244609979
+    second: SignalNoise_137
+  - first:
+      213: -8980523331548232486
+    second: SignalNoise_138
+  - first:
+      213: 4731402041806531524
+    second: SignalNoise_139
+  - first:
+      213: -5294983292733789066
+    second: SignalNoise_140
+  - first:
+      213: -3585799375443920664
+    second: SignalNoise_141
+  - first:
+      213: 3494927309478957999
+    second: SignalNoise_142
+  - first:
+      213: 5497172477116321755
+    second: SignalNoise_143
+  - first:
+      213: -3978714003348639012
+    second: SignalNoise_144
+  - first:
+      213: -5938837389231208364
+    second: SignalNoise_145
+  - first:
+      213: -508706285047288804
+    second: SignalNoise_146
+  - first:
+      213: 7400229134781548816
+    second: SignalNoise_147
+  - first:
+      213: -2588486105910440290
+    second: SignalNoise_148
+  - first:
+      213: 2924458310441874003
+    second: SignalNoise_149
+  - first:
+      213: -1064773964567619412
+    second: SignalNoise_150
+  - first:
+      213: -2441714638422556875
+    second: SignalNoise_151
+  - first:
+      213: -947589813828234569
+    second: SignalNoise_152
+  - first:
+      213: 657348077898254022
+    second: SignalNoise_153
+  - first:
+      213: 4735083719313103357
+    second: SignalNoise_154
+  - first:
+      213: -1003161320419603113
+    second: SignalNoise_155
+  - first:
+      213: 610042804285643480
+    second: SignalNoise_156
+  - first:
+      213: 7096698689961111290
+    second: SignalNoise_157
+  - first:
+      213: 1255912082414504364
+    second: SignalNoise_158
+  - first:
+      213: 5444107669338818028
+    second: SignalNoise_159
+  - first:
+      213: 7972339470579915666
+    second: SignalNoise_160
+  - first:
+      213: 8279503164638388688
+    second: SignalNoise_161
+  - first:
+      213: 8033326323961020564
+    second: SignalNoise_162
+  - first:
+      213: 7865287818396929524
+    second: SignalNoise_163
+  - first:
+      213: -1769124826668241028
+    second: SignalNoise_164
+  - first:
+      213: -5191404213673245487
+    second: SignalNoise_165
+  - first:
+      213: 2051586419192601490
+    second: SignalNoise_166
+  - first:
+      213: -6158470396540255042
+    second: SignalNoise_167
+  - first:
+      213: -2564436681677725042
+    second: SignalNoise_168
+  - first:
+      213: 678642802919304326
+    second: SignalNoise_169
+  - first:
+      213: 726659190180917409
+    second: SignalNoise_170
+  - first:
+      213: -8935226336286873970
+    second: SignalNoise_171
+  - first:
+      213: -7545500199036905426
+    second: SignalNoise_172
+  - first:
+      213: -5509669176426960895
+    second: SignalNoise_173
+  - first:
+      213: 8334156855315965176
+    second: SignalNoise_174
+  - first:
+      213: 1120069248939662290
+    second: SignalNoise_175
+  - first:
+      213: 4882061497624258703
+    second: SignalNoise_176
+  - first:
+      213: -1520207628669299747
+    second: SignalNoise_177
+  - first:
+      213: -4596354993269025444
+    second: SignalNoise_178
+  - first:
+      213: 1048195283342619583
+    second: SignalNoise_179
+  - first:
+      213: 8673442296168547814
+    second: SignalNoise_180
+  - first:
+      213: 5765738592969302437
+    second: SignalNoise_181
+  - first:
+      213: -2853504146433329139
+    second: SignalNoise_182
+  - first:
+      213: 1208928913328143079
+    second: SignalNoise_183
+  - first:
+      213: -451326641962851610
+    second: SignalNoise_184
+  - first:
+      213: -2132988363211760025
+    second: SignalNoise_185
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 0
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SignalNoise_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 55
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e929bbd8e5f4b5d0800000000000000
+      internalID: -3047540667355420191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 230
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0040a5d4d69c858b0800000000000000
+      internalID: -5163155501493910528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_2
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 237
+        width: 27
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a3e301cc77aab50800000000000000
+      internalID: 6605223521821801072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_3
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 231
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab0849d283325e40800000000000000
+      internalID: 5643629920132795304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_4
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 244
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73956d886cc0b39a0800000000000000
+      internalID: -6252389610834994889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_5
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 229
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e36d0d1a53bd63a40800000000000000
+      internalID: 5347702630943610430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_6
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 147
+        width: 51
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 518a6faa25acea500800000000000000
+      internalID: 409487072541714453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_7
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 204
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 341ab3ab24ae30a90800000000000000
+      internalID: -7348772594625306301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_8
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 236
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf973af944199e60800000000000000
+      internalID: 7969423323571920820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_9
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 168
+        width: 39
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ca8db4a2a1cf6da0800000000000000
+      internalID: -5949323678440387903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_10
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 232
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0eab4dde99f9b3910800000000000000
+      internalID: 1818222358043081440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_11
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 237
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61ea08a19f4c129e0800000000000000
+      internalID: -1647819414470349290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_12
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 236
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45883d7e01b833430800000000000000
+      internalID: 3761503018509633620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_13
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 223
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77eb7c03293192780800000000000000
+      internalID: -8707406885939593609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_14
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 149
+        width: 47
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4120443a583b969d0800000000000000
+      internalID: -2780493908373405164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_15
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 150
+        width: 37
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f113fc303a3bd4ce0800000000000000
+      internalID: -1419280794826886881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_16
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 241
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e0de263333419740800000000000000
+      internalID: 5156976935547359460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_17
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 236
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b389abba9b9f1d540800000000000000
+      internalID: 5031076834594953275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_18
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 187
+        width: 26
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca6eadeba86ad7430800000000000000
+      internalID: 3782362376898799276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_19
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 214
+        width: 17
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f303a7bc9b3fd80800000000000000
+      internalID: -8218020611441541220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_20
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 163
+        width: 32
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad2a45cf3ff4830b0800000000000000
+      internalID: -5748757015009385766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_21
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 246
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01310e8b234693720800000000000000
+      internalID: 2826400410164531984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_22
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 233
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08134bde2f4255410800000000000000
+      internalID: 1465117879567659392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_23
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 220
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92921d22c2de9e5e0800000000000000
+      internalID: -1879710595631994583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_24
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 225
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0574a2aa62389b0d0800000000000000
+      internalID: -3406547441042176176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_25
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 222
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3983d85ec97cc1cc0800000000000000
+      internalID: -3738894113944291181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_26
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 222
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e24b517aac1bdfe30800000000000000
+      internalID: 4538979483404055598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_27
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 214
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b048ab42339d93980800000000000000
+      internalID: -8558570803158154229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_28
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 224
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be177f1e7bbdd810800000000000000
+      internalID: 1791794377131499185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_29
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 222
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ba77025100eccd0800000000000000
+      internalID: -2536089449423983748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_30
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 209
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d983d8525eed41830800000000000000
+      internalID: 4041099841417066653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_31
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 39
+        width: 47
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c2086757b10efe0800000000000000
+      internalID: -1161898512548352928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_32
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 204
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d8163d452e48d10800000000000000
+      internalID: 2127073777977232733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_33
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 213
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0266fc10f50a6a60800000000000000
+      internalID: 7667947844387889676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_34
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 213
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642e7dccda0fb42a0800000000000000
+      internalID: -6752038587055218106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_35
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 215
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6115eeb0bd2bd3980800000000000000
+      internalID: -8557487063066324714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_36
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 210
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef18e810fdab1330800000000000000
+      internalID: 3682728367027134439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_37
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 69
+        width: 47
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1628719c835f208e0800000000000000
+      internalID: -1728549682716114335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_38
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 208
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c81f1f658914a9150800000000000000
+      internalID: 5880084386035134860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_39
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 209
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30591005f239bf130800000000000000
+      internalID: 3601634158427870467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_40
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 201
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5151f427065a508c0800000000000000
+      internalID: -4033636057587182315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_41
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 204
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6803c78f3cddd7dc0800000000000000
+      internalID: -3639509090088243066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_42
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 192
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26820c4254e9db210800000000000000
+      internalID: 1350409483087521890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_43
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 196
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b9e6880ea7fc1f0800000000000000
+      internalID: -1022463485609600210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_44
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 198
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64112b058f5642850800000000000000
+      internalID: 6351313491679383878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_45
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 195
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e95b56d026c6000800000000000000
+      internalID: 30507107165249066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_46
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 198
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6c07625062e607c0800000000000000
+      internalID: -4105345106974405525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_47
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 202
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a36dc5dd0c10a40800000000000000
+      internalID: 5332755490761226797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_48
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 194
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e601c895718bc340800000000000000
+      internalID: 4885140562887378662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_49
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 188
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e3680ed2f477f30800000000000000
+      internalID: 4573211005077044767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_50
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 187
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5748622dd041df0800000000000000
+      internalID: -210528086339062348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_51
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 189
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a9f22061fa4b5af0800000000000000
+      internalID: -406648940786419296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_52
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 192
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e31c9cb38d7e1a9c0800000000000000
+      internalID: -3917595284933590722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_53
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 177
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1feb40749b1c9ba20800000000000000
+      internalID: 3078704821789048561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_54
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 183
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd8f5e668a481f8b0800000000000000
+      internalID: -5120165442527823649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_55
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 177
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e9b24645ecfb2670800000000000000
+      internalID: 8515177582130543073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_56
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 177
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a3688b5eac77400800000000000000
+      internalID: 321948986372405875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_57
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 72
+        width: 34
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aecd4caac4684b140800000000000000
+      internalID: 4734556772113898730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_58
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 182
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f071214fda8b920800000000000000
+      internalID: 3006344015056932666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_59
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 170
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d5d7f67943014830800000000000000
+      internalID: 4053524753673606611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_60
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 174
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a336fdb3cc6a63460800000000000000
+      internalID: 7221142448643203898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_61
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 170
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 990396163739d4ea0800000000000000
+      internalID: -5886887014138564455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_62
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 167
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 623f08f3ca111e7b0800000000000000
+      internalID: -5196853063511379162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_63
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 168
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01c33e9124e23c290800000000000000
+      internalID: -7871396862276453360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_64
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 160
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 178cb0014491a3d30800000000000000
+      internalID: 4411866565080500337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_65
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 166
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf1231fc373acd7e0800000000000000
+      internalID: -1739335638281149957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_66
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 161
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86015d742aa568460800000000000000
+      internalID: 7243576703708369000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_67
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 157
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1f21fb6126cd6b0800000000000000
+      internalID: -5270229614095830593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_68
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 155
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe04fb3ce80535f0800000000000000
+      internalID: -777705549940388097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_69
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 125
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 156d8aa39f44f6ab0800000000000000
+      internalID: -5012712023018383791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_70
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 154
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca0d74757dd1143f0800000000000000
+      internalID: -918420038287372116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_71
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 163
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d0d2980c0ae59410800000000000000
+      internalID: 1483348989692793045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_72
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 159
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d3dceb38333a810800000000000000
+      internalID: 1775319319048961305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_73
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 52
+        width: 31
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226d64c6ea50aa4d0800000000000000
+      internalID: -3122677144928987614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_74
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 148
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac5500ef69c369860800000000000000
+      internalID: 7536277645655299530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_75
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 156
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9de9ad52a663aa50800000000000000
+      internalID: 6531176732159503770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_76
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 135
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b823d8c683c2b52d0800000000000000
+      internalID: -3288986482013031797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_77
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 151
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a68b21fab00a1fb0800000000000000
+      internalID: -4676424460160760157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_78
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 148
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc858257d233debe0800000000000000
+      internalID: -1446443634983937845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_79
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 118
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b616403b246c960800000000000000
+      internalID: 7621852756011215726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_80
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 150
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6104fdbd092be4e0800000000000000
+      internalID: -1951420874536779411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_81
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 137
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50097869b639b2550800000000000000
+      internalID: 6137161007518683141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_82
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 148
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b57f697d1e0ed130800000000000000
+      internalID: 3593325072442422712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_83
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 139
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e69c834afc14de50800000000000000
+      internalID: 6833118395828573922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_84
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 119
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89fc1bbfc6d797180800000000000000
+      internalID: -9117118063602184296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_85
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 138
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079e5fb84793fafb0800000000000000
+      internalID: -4634422318813812368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_86
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 45
+        width: 43
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1db338a949ee32f0800000000000000
+      internalID: -991098365411082979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_87
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 147
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02995d6c48059b4d0800000000000000
+      internalID: -3118372735775565536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_88
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 146
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b2056476c1f5b910800000000000000
+      internalID: 1852652656391422647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_89
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 130
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b17fee8a1f80a80800000000000000
+      internalID: -8500278588795839667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_90
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 83
+        width: 23
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd78e9e60f96a730800000000000000
+      internalID: 4010067370262953461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_91
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 132
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a73fd3b19682e32c0800000000000000
+      internalID: -4450074949901749382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_92
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 135
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0cba21f3663b8c0800000000000000
+      internalID: -3984728824210538256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_93
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 131
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97f0cf932a9dd89c0800000000000000
+      internalID: -3923240409589084295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_94
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 132
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c72beb3bdefbe8a50800000000000000
+      internalID: 6525363937750200956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_95
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 137
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c014833efa7ba8ad0800000000000000
+      internalID: -2699143060595916532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_96
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 128
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f669fb5b83988710800000000000000
+      internalID: 1695767486457800439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_97
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 115
+        width: 12
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1f3aa530ee1904b0800000000000000
+      internalID: -5473809923770269921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_98
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 127
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 556c8becf34bba970800000000000000
+      internalID: 8767299285750957653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_99
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 109
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 168e59c276253af60800000000000000
+      internalID: 8044363962496968801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_100
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 113
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1f2a4e74c927280800000000000000
+      internalID: -9046996868841410143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_101
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 120
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b4983d63d1532f0800000000000000
+      internalID: -993856021450896553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_102
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 120
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e54a011ab3a0400800000000000000
+      internalID: 291110688873799294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_103
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 116
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa76327ea58b97220800000000000000
+      internalID: 2484219370035963823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_104
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 85
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607e3c0825c582570800000000000000
+      internalID: 8442099010923390726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_105
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 119
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ecd8487e08311be0800000000000000
+      internalID: -1508362765393666840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_106
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 80
+        width: 22
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48609f57e5b5d1d0800000000000000
+      internalID: -3326552744397871025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_107
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 115
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10d76ad7679f0630800000000000000
+      internalID: 3895498675000430618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_108
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 100
+        width: 16
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1612785307ffa4030800000000000000
+      internalID: 3479874519496597857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_109
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 100
+        width: 11
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4afb5344ba1d99b0800000000000000
+      internalID: -5071868243822773684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_110
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 108
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a39566b18b295c0800000000000000
+      internalID: -4210100273817240934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_111
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 86
+        width: 18
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b31d6a1d1902170800000000000000
+      internalID: 8151675655173520223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_112
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 96
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae94694cecf4b8b0800000000000000
+      internalID: -5137203183149080913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_113
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 111
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d47ddceab6f34f880800000000000000
+      internalID: -8578161658507176115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_114
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 97
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85b28e2126d460b90800000000000000
+      internalID: -7276043064351118504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_115
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 103
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9a8dde9b50bb2700800000000000000
+      internalID: 516700489817885339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_116
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 100
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e110fc65bef58e7d0800000000000000
+      internalID: -2888953696579813090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_117
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 87
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d175f6b1fa6c9ee00800000000000000
+      internalID: 1074608441486432029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_118
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 83
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4bedab6ed824650800000000000000
+      internalID: 6215686457841857762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_119
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 86
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa42c8c6ca54db680800000000000000
+      internalID: -8737751095171078993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_120
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 89
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68879b5b6cbb61670800000000000000
+      internalID: 8509195008089880710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_121
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 65
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c23c4358d2244e0800000000000000
+      internalID: -1998985234459972520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_122
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 75
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9cc68ebb9bafe60800000000000000
+      internalID: 7996908305059203533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_123
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 74
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ef18c61522fcefa0800000000000000
+      internalID: -5769970781458522144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_124
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 77
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f43eef859ada82ff0800000000000000
+      internalID: -60607652115324081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_125
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 68
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dcf8b89cc161b2c0800000000000000
+      internalID: -4417642228110263083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_126
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 13
+        width: 25
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7f178cbbf8a8280800000000000000
+      internalID: -9040255265308280911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_127
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 2
+        width: 37
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09bd056efc55901b0800000000000000
+      internalID: -5689922302795261040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_128
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 74
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc3f6645779c078f0800000000000000
+      internalID: -544714040557505589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_129
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 78
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6cd83df85c6c360800000000000000
+      internalID: 7189651076663854815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_130
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 74
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c38094b0bd321da0800000000000000
+      internalID: -5975645926414318648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_131
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 77
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f734856bad018f060800000000000000
+      internalID: 6987353353413477247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_132
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 81
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b4cec05034563330800000000000000
+      internalID: 3690229511167591609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_133
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 63
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c031776de9026900800000000000000
+      internalID: 676113809306366148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_134
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 64
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d766b930e0060be0800000000000000
+      internalID: -1511519661895292969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_135
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 0
+        width: 43
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aee71e7824d706c0800000000000000
+      internalID: -4177136858983567712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_136
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 50
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05537384d2c406650800000000000000
+      internalID: 6224058442394842448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_137
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 68
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb175846f5744d350800000000000000
+      internalID: 6040531475244609979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_138
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 45
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4c5fd5c95ce5380800000000000000
+      internalID: -8980523331548232486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_139
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 71
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cbaf67c61159a140800000000000000
+      internalID: 4731402041806531524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_140
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 69
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c69f0dfb07486b0800000000000000
+      internalID: -5294983292733789066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_141
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 67
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e8f8d6677eac3ec0800000000000000
+      internalID: -3585799375443920664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_142
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 52
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa31e4dfed9708030800000000000000
+      internalID: 3494927309478957999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_143
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 51
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf829f1e31e94c40800000000000000
+      internalID: 5497172477116321755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_144
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 0
+        width: 28
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd2388fa1b4c8c8c0800000000000000
+      internalID: -3978714003348639012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_145
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 60
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 458c01c1cd2059da0800000000000000
+      internalID: -5938837389231208364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_146
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 37
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c6fb83456b0f8f0800000000000000
+      internalID: -508706285047288804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_147
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 42
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0198623a035e2b660800000000000000
+      internalID: 7400229134781548816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_148
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 33
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e8c2fd999d31cd0800000000000000
+      internalID: -2588486105910440290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_149
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 49
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 352b352c653c59820800000000000000
+      internalID: 2924458310441874003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_150
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 35
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca8dcdb78b92931f0800000000000000
+      internalID: -1064773964567619412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_151
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 0
+        width: 18
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53fb3fd19794d1ed0800000000000000
+      internalID: -2441714638422556875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_152
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 42
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b25df9b51c79d2f0800000000000000
+      internalID: -947589813828234569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_153
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 23
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c649e4189e5f1900800000000000000
+      internalID: 657348077898254022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_154
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 42
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df9946f1e8566b140800000000000000
+      internalID: 4735083719313103357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_155
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 43
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d4af3181e0412f0800000000000000
+      internalID: -1003161320419603113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_156
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 37
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da9a37c2be477800800000000000000
+      internalID: 610042804285643480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_157
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 0
+        width: 29
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afeac1dcbd98c7260800000000000000
+      internalID: 7096698689961111290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_158
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 47
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca900758265ed6110800000000000000
+      internalID: 1255912082414504364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_159
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 55
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce58be5c41b5d8b40800000000000000
+      internalID: 5444107669338818028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_160
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 19
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29bddbc528073ae60800000000000000
+      internalID: 7972339470579915666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_161
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 41
+        width: 22
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d16ef4f244b6e270800000000000000
+      internalID: 8279503164638388688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_162
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 18
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490cd70babb1c7f60800000000000000
+      internalID: 8033326323961020564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_163
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 20
+        width: 17
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fd81c7499d172d60800000000000000
+      internalID: 7865287818396929524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_164
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 23
+        width: 9
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f6d17e75ec277e0800000000000000
+      internalID: -1769124826668241028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_165
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 33
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d44a867f5d64f7b0800000000000000
+      internalID: -5191404213673245487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_166
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 0
+        width: 36
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b9dfd7af2b87c10800000000000000
+      internalID: 2051586419192601490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_167
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 30
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb48576adc7b88aa0800000000000000
+      internalID: -6158470396540255042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_168
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 10
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e822e9bcc6a496cd0800000000000000
+      internalID: -2564436681677725042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_169
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 16
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c616d98060b6900800000000000000
+      internalID: 678642802919304326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_170
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 10
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a0b187feac951a00800000000000000
+      internalID: 726659190180917409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_171
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e86e7edecf2bff380800000000000000
+      internalID: -8935226336286873970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_172
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 0
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2814c7fb8ff84790800000000000000
+      internalID: -7545500199036905426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_173
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 20
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108e6255319b983b0800000000000000
+      internalID: -5509669176426960895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_174
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 7
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f4ae7fe08fd8a370800000000000000
+      internalID: 8334156855315965176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_175
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 0
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db13ea2c094b8f00800000000000000
+      internalID: 1120069248939662290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_176
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 11
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f886189d01190c340800000000000000
+      internalID: 4882061497624258703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_177
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 7
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd3d354573327eae0800000000000000
+      internalID: -1520207628669299747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_178
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 0
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c555b947c777630c0800000000000000
+      internalID: -4596354993269025444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_179
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 1
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb370ee7e00fb8e00800000000000000
+      internalID: 1048195283342619583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_180
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 0
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e589f280d14e5870800000000000000
+      internalID: 8673442296168547814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_181
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 0
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a122bdb3b4040050800000000000000
+      internalID: 5765738592969302437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_182
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 14
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d08bcbae8115668d0800000000000000
+      internalID: -2853504146433329139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_183
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 1
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea7f95017af6c010800000000000000
+      internalID: 1208928913328143079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_184
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e262247fc09cb9f0800000000000000
+      internalID: -451326641962851610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SignalNoise_185
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 6
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e98bc726a1662e0800000000000000
+      internalID: -2132988363211760025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SignalNoise_0: -3047540667355420191
+      SignalNoise_1: -5163155501493910528
+      SignalNoise_10: 1818222358043081440
+      SignalNoise_100: -9046996868841410143
+      SignalNoise_101: -993856021450896553
+      SignalNoise_102: 291110688873799294
+      SignalNoise_103: 2484219370035963823
+      SignalNoise_104: 8442099010923390726
+      SignalNoise_105: -1508362765393666840
+      SignalNoise_106: -3326552744397871025
+      SignalNoise_107: 3895498675000430618
+      SignalNoise_108: 3479874519496597857
+      SignalNoise_109: -5071868243822773684
+      SignalNoise_11: -1647819414470349290
+      SignalNoise_110: -4210100273817240934
+      SignalNoise_111: 8151675655173520223
+      SignalNoise_112: -5137203183149080913
+      SignalNoise_113: -8578161658507176115
+      SignalNoise_114: -7276043064351118504
+      SignalNoise_115: 516700489817885339
+      SignalNoise_116: -2888953696579813090
+      SignalNoise_117: 1074608441486432029
+      SignalNoise_118: 6215686457841857762
+      SignalNoise_119: -8737751095171078993
+      SignalNoise_12: 3761503018509633620
+      SignalNoise_120: 8509195008089880710
+      SignalNoise_121: -1998985234459972520
+      SignalNoise_122: 7996908305059203533
+      SignalNoise_123: -5769970781458522144
+      SignalNoise_124: -60607652115324081
+      SignalNoise_125: -4417642228110263083
+      SignalNoise_126: -9040255265308280911
+      SignalNoise_127: -5689922302795261040
+      SignalNoise_128: -544714040557505589
+      SignalNoise_129: 7189651076663854815
+      SignalNoise_13: -8707406885939593609
+      SignalNoise_130: -5975645926414318648
+      SignalNoise_131: 6987353353413477247
+      SignalNoise_132: 3690229511167591609
+      SignalNoise_133: 676113809306366148
+      SignalNoise_134: -1511519661895292969
+      SignalNoise_135: -4177136858983567712
+      SignalNoise_136: 6224058442394842448
+      SignalNoise_137: 6040531475244609979
+      SignalNoise_138: -8980523331548232486
+      SignalNoise_139: 4731402041806531524
+      SignalNoise_14: -2780493908373405164
+      SignalNoise_140: -5294983292733789066
+      SignalNoise_141: -3585799375443920664
+      SignalNoise_142: 3494927309478957999
+      SignalNoise_143: 5497172477116321755
+      SignalNoise_144: -3978714003348639012
+      SignalNoise_145: -5938837389231208364
+      SignalNoise_146: -508706285047288804
+      SignalNoise_147: 7400229134781548816
+      SignalNoise_148: -2588486105910440290
+      SignalNoise_149: 2924458310441874003
+      SignalNoise_15: -1419280794826886881
+      SignalNoise_150: -1064773964567619412
+      SignalNoise_151: -2441714638422556875
+      SignalNoise_152: -947589813828234569
+      SignalNoise_153: 657348077898254022
+      SignalNoise_154: 4735083719313103357
+      SignalNoise_155: -1003161320419603113
+      SignalNoise_156: 610042804285643480
+      SignalNoise_157: 7096698689961111290
+      SignalNoise_158: 1255912082414504364
+      SignalNoise_159: 5444107669338818028
+      SignalNoise_16: 5156976935547359460
+      SignalNoise_160: 7972339470579915666
+      SignalNoise_161: 8279503164638388688
+      SignalNoise_162: 8033326323961020564
+      SignalNoise_163: 7865287818396929524
+      SignalNoise_164: -1769124826668241028
+      SignalNoise_165: -5191404213673245487
+      SignalNoise_166: 2051586419192601490
+      SignalNoise_167: -6158470396540255042
+      SignalNoise_168: -2564436681677725042
+      SignalNoise_169: 678642802919304326
+      SignalNoise_17: 5031076834594953275
+      SignalNoise_170: 726659190180917409
+      SignalNoise_171: -8935226336286873970
+      SignalNoise_172: -7545500199036905426
+      SignalNoise_173: -5509669176426960895
+      SignalNoise_174: 8334156855315965176
+      SignalNoise_175: 1120069248939662290
+      SignalNoise_176: 4882061497624258703
+      SignalNoise_177: -1520207628669299747
+      SignalNoise_178: -4596354993269025444
+      SignalNoise_179: 1048195283342619583
+      SignalNoise_18: 3782362376898799276
+      SignalNoise_180: 8673442296168547814
+      SignalNoise_181: 5765738592969302437
+      SignalNoise_182: -2853504146433329139
+      SignalNoise_183: 1208928913328143079
+      SignalNoise_184: -451326641962851610
+      SignalNoise_185: -2132988363211760025
+      SignalNoise_19: -8218020611441541220
+      SignalNoise_2: 6605223521821801072
+      SignalNoise_20: -5748757015009385766
+      SignalNoise_21: 2826400410164531984
+      SignalNoise_22: 1465117879567659392
+      SignalNoise_23: -1879710595631994583
+      SignalNoise_24: -3406547441042176176
+      SignalNoise_25: -3738894113944291181
+      SignalNoise_26: 4538979483404055598
+      SignalNoise_27: -8558570803158154229
+      SignalNoise_28: 1791794377131499185
+      SignalNoise_29: -2536089449423983748
+      SignalNoise_3: 5643629920132795304
+      SignalNoise_30: 4041099841417066653
+      SignalNoise_31: -1161898512548352928
+      SignalNoise_32: 2127073777977232733
+      SignalNoise_33: 7667947844387889676
+      SignalNoise_34: -6752038587055218106
+      SignalNoise_35: -8557487063066324714
+      SignalNoise_36: 3682728367027134439
+      SignalNoise_37: -1728549682716114335
+      SignalNoise_38: 5880084386035134860
+      SignalNoise_39: 3601634158427870467
+      SignalNoise_4: -6252389610834994889
+      SignalNoise_40: -4033636057587182315
+      SignalNoise_41: -3639509090088243066
+      SignalNoise_42: 1350409483087521890
+      SignalNoise_43: -1022463485609600210
+      SignalNoise_44: 6351313491679383878
+      SignalNoise_45: 30507107165249066
+      SignalNoise_46: -4105345106974405525
+      SignalNoise_47: 5332755490761226797
+      SignalNoise_48: 4885140562887378662
+      SignalNoise_49: 4573211005077044767
+      SignalNoise_5: 5347702630943610430
+      SignalNoise_50: -210528086339062348
+      SignalNoise_51: -406648940786419296
+      SignalNoise_52: -3917595284933590722
+      SignalNoise_53: 3078704821789048561
+      SignalNoise_54: -5120165442527823649
+      SignalNoise_55: 8515177582130543073
+      SignalNoise_56: 321948986372405875
+      SignalNoise_57: 4734556772113898730
+      SignalNoise_58: 3006344015056932666
+      SignalNoise_59: 4053524753673606611
+      SignalNoise_6: 409487072541714453
+      SignalNoise_60: 7221142448643203898
+      SignalNoise_61: -5886887014138564455
+      SignalNoise_62: -5196853063511379162
+      SignalNoise_63: -7871396862276453360
+      SignalNoise_64: 4411866565080500337
+      SignalNoise_65: -1739335638281149957
+      SignalNoise_66: 7243576703708369000
+      SignalNoise_67: -5270229614095830593
+      SignalNoise_68: -777705549940388097
+      SignalNoise_69: -5012712023018383791
+      SignalNoise_7: -7348772594625306301
+      SignalNoise_70: -918420038287372116
+      SignalNoise_71: 1483348989692793045
+      SignalNoise_72: 1775319319048961305
+      SignalNoise_73: -3122677144928987614
+      SignalNoise_74: 7536277645655299530
+      SignalNoise_75: 6531176732159503770
+      SignalNoise_76: -3288986482013031797
+      SignalNoise_77: -4676424460160760157
+      SignalNoise_78: -1446443634983937845
+      SignalNoise_79: 7621852756011215726
+      SignalNoise_8: 7969423323571920820
+      SignalNoise_80: -1951420874536779411
+      SignalNoise_81: 6137161007518683141
+      SignalNoise_82: 3593325072442422712
+      SignalNoise_83: 6833118395828573922
+      SignalNoise_84: -9117118063602184296
+      SignalNoise_85: -4634422318813812368
+      SignalNoise_86: -991098365411082979
+      SignalNoise_87: -3118372735775565536
+      SignalNoise_88: 1852652656391422647
+      SignalNoise_89: -8500278588795839667
+      SignalNoise_9: -5949323678440387903
+      SignalNoise_90: 4010067370262953461
+      SignalNoise_91: -4450074949901749382
+      SignalNoise_92: -3984728824210538256
+      SignalNoise_93: -3923240409589084295
+      SignalNoise_94: 6525363937750200956
+      SignalNoise_95: -2699143060595916532
+      SignalNoise_96: 1695767486457800439
+      SignalNoise_97: -5473809923770269921
+      SignalNoise_98: 8767299285750957653
+      SignalNoise_99: 8044363962496968801
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,2305 @@
+fileFormatVersion: 2
+guid: bff9e366854d4eb40b3b49f4e13fb708
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6595054376742588926
+    second: player_death_0251_0
+  - first:
+      213: 8626871320629268394
+    second: player_death_0251_1
+  - first:
+      213: -6690233100006787703
+    second: player_death_0251_2
+  - first:
+      213: -8337212324275264328
+    second: player_death_0251_3
+  - first:
+      213: -2579613871802945351
+    second: player_death_0251_4
+  - first:
+      213: -2390164722093008138
+    second: player_death_0251_5
+  - first:
+      213: 1219411565351369035
+    second: player_death_0251_6
+  - first:
+      213: 9064185274894053705
+    second: player_death_0251_7
+  - first:
+      213: 1285722475506381815
+    second: player_death_0251_8
+  - first:
+      213: -2396244168436963191
+    second: player_death_0251_9
+  - first:
+      213: -4715502391129599812
+    second: player_death_0251_10
+  - first:
+      213: -8812814161257204243
+    second: player_death_0251_11
+  - first:
+      213: 8777009994499644495
+    second: player_death_0251_12
+  - first:
+      213: 5370544734378950382
+    second: player_death_0251_13
+  - first:
+      213: -1380330300891587488
+    second: player_death_0251_14
+  - first:
+      213: 2976947737685397118
+    second: player_death_0251_15
+  - first:
+      213: 9180533326261727852
+    second: player_death_0251_16
+  - first:
+      213: 1742203907057964038
+    second: player_death_0251_17
+  - first:
+      213: 1929252130082205338
+    second: player_death_0251_18
+  - first:
+      213: 246111038837838798
+    second: player_death_0251_19
+  - first:
+      213: -575138817926267514
+    second: player_death_0251_20
+  - first:
+      213: 6610642204382328370
+    second: player_death_0251_21
+  - first:
+      213: -2795752829769246314
+    second: player_death_0251_22
+  - first:
+      213: -7735670359137786926
+    second: player_death_0251_23
+  - first:
+      213: 1254943829776712367
+    second: player_death_0251_24
+  - first:
+      213: -8463863838915163830
+    second: player_death_0251_25
+  - first:
+      213: -9188577357253760159
+    second: player_death_0251_26
+  - first:
+      213: -1073645111391829816
+    second: player_death_0251_27
+  - first:
+      213: -1711751867466760890
+    second: player_death_0251_28
+  - first:
+      213: -3616671357062317708
+    second: player_death_0251_29
+  - first:
+      213: -7758291036828739400
+    second: player_death_0251_30
+  - first:
+      213: 3391778286961140385
+    second: player_death_0251_31
+  - first:
+      213: 5915775730718826154
+    second: player_death_0251_32
+  - first:
+      213: 5888008640404990855
+    second: player_death_0251_33
+  - first:
+      213: 9203258448666590719
+    second: player_death_0251_34
+  - first:
+      213: 5307525592447380215
+    second: player_death_0251_35
+  - first:
+      213: -9208553253747952259
+    second: player_death_0251_36
+  - first:
+      213: -3687968112378376290
+    second: player_death_0251_37
+  - first:
+      213: -7156532577633403272
+    second: player_death_0251_38
+  - first:
+      213: -6777548581953348289
+    second: player_death_0251_39
+  - first:
+      213: 8208584787120355680
+    second: player_death_0251_40
+  - first:
+      213: -1113027759220855552
+    second: player_death_0251_41
+  - first:
+      213: -5436971398275858560
+    second: player_death_0251_42
+  - first:
+      213: -5851260140569697509
+    second: player_death_0251_43
+  - first:
+      213: 6874018652668369360
+    second: player_death_0251_44
+  - first:
+      213: -2547703209567034497
+    second: player_death_0251_45
+  - first:
+      213: -3989300581910643939
+    second: player_death_0251_46
+  - first:
+      213: -2240054842762739760
+    second: player_death_0251_47
+  - first:
+      213: 8816172032111081966
+    second: player_death_0251_48
+  - first:
+      213: -5209868400268641029
+    second: player_death_0251_49
+  - first:
+      213: -2638653749901645845
+    second: player_death_0251_50
+  - first:
+      213: 6769762908194927608
+    second: player_death_0251_51
+  - first:
+      213: 4272243991765789073
+    second: player_death_0251_52
+  - first:
+      213: 5767613922541792709
+    second: player_death_0251_53
+  - first:
+      213: -3950918534394650972
+    second: player_death_0251_54
+  - first:
+      213: -5305819160278467741
+    second: player_death_0251_55
+  - first:
+      213: -4908097687624120082
+    second: player_death_0251_56
+  - first:
+      213: 1891152182736132886
+    second: player_death_0251_57
+  - first:
+      213: 480396469355134391
+    second: player_death_0251_58
+  - first:
+      213: -342183832276559921
+    second: player_death_0251_59
+  - first:
+      213: -3624560330002667912
+    second: player_death_0251_60
+  - first:
+      213: -7768327410763234592
+    second: player_death_0251_61
+  - first:
+      213: 1817938988270668083
+    second: player_death_0251_62
+  - first:
+      213: -1559491361479636474
+    second: player_death_0251_63
+  - first:
+      213: 5384879290727011623
+    second: player_death_0251_64
+  - first:
+      213: -6130187028041345388
+    second: player_death_0251_65
+  - first:
+      213: -5207611522376617695
+    second: player_death_0251_66
+  - first:
+      213: -4413378817218115943
+    second: player_death_0251_67
+  - first:
+      213: -2622891995111199693
+    second: player_death_0251_68
+  - first:
+      213: -4766013836492132442
+    second: player_death_0251_69
+  - first:
+      213: -8073796739655647368
+    second: player_death_0251_70
+  - first:
+      213: 1789773200244880798
+    second: player_death_0251_71
+  - first:
+      213: -936179486842586220
+    second: player_death_0251_72
+  - first:
+      213: 1122625216184766472
+    second: player_death_0251_73
+  - first:
+      213: 4269524146411396445
+    second: player_death_0251_74
+  - first:
+      213: 3494044946824235913
+    second: player_death_0251_75
+  - first:
+      213: 5935609641811176217
+    second: player_death_0251_76
+  - first:
+      213: -6590424746719322929
+    second: player_death_0251_77
+  - first:
+      213: 5501268599364584749
+    second: player_death_0251_78
+  - first:
+      213: 4150369437348727755
+    second: player_death_0251_79
+  - first:
+      213: 7162096597092004305
+    second: player_death_0251_80
+  - first:
+      213: -8169409725614088339
+    second: player_death_0251_81
+  - first:
+      213: -296693851106384940
+    second: player_death_0251_82
+  - first:
+      213: -8566978551099202830
+    second: player_death_0251_83
+  - first:
+      213: 3883757759318952476
+    second: player_death_0251_84
+  - first:
+      213: -5377152010502294755
+    second: player_death_0251_85
+  - first:
+      213: -3995666833656953512
+    second: player_death_0251_86
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: player_death_0251_0
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 777
+        width: 70
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20e6fd78cf8a974a0800000000000000
+      internalID: -6595054376742588926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_1
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 801
+        width: 26
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aafcc1d42cdc8b770800000000000000
+      internalID: 8626871320629268394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_2
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 781
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985f88121748723a0800000000000000
+      internalID: -6690233100006787703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_3
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 757
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b4609240954c4c80800000000000000
+      internalID: -8337212324275264328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_4
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 755
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0f389d9de533cd0800000000000000
+      internalID: -2579613871802945351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_5
+      rect:
+        serializedVersion: 2
+        x: 483
+        y: 743
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fad9f059dd64ded0800000000000000
+      internalID: -2390164722093008138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_6
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 751
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4975c3ab583ce010800000000000000
+      internalID: 1219411565351369035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_7
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 751
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 941f260cb747acd70800000000000000
+      internalID: 9064185274894053705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_8
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 725
+        width: 82
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f33b4887cdc7d110800000000000000
+      internalID: 1285722475506381815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_9
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 739
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 988a639ef94debed0800000000000000
+      internalID: -2396244168436963191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_10
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 721
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb0173f1f8b2f8eb0800000000000000
+      internalID: -4715502391129599812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_11
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 745
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de57bbe663892b580800000000000000
+      internalID: -8812814161257204243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_12
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 743
+        width: 20
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c543066143ec970800000000000000
+      internalID: 8777009994499644495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_13
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 735
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee70074bf1088a40800000000000000
+      internalID: 5370544734378950382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_14
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 725
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c16a697e418dce0800000000000000
+      internalID: -1380330300891587488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_15
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 733
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7e04a3e13e305920800000000000000
+      internalID: 2976947737685397118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_16
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 721
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6237707b6ec76f70800000000000000
+      internalID: 9180533326261727852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_17
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 728
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 604dc7e093d8d2810800000000000000
+      internalID: 1742203907057964038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_18
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 727
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9e27b7379416ca10800000000000000
+      internalID: 1929252130082205338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_19
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 383
+        width: 483
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec35b359fac5a6300800000000000000
+      internalID: 246111038837838798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_20
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 727
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d77f4da42b408f0800000000000000
+      internalID: -575138817926267514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_21
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 725
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236f9696f08bdbb50800000000000000
+      internalID: 6610642204382328370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_22
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 721
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6999fc52d9d7339d0800000000000000
+      internalID: -2795752829769246314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_23
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 721
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d3e2103bc065a490800000000000000
+      internalID: -7735670359137786926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_24
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 605
+        width: 76
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2c8e2a3c47a6110800000000000000
+      internalID: 1254943829776712367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_25
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 651
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4900369ea05a8a80800000000000000
+      internalID: -8463863838915163830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_26
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 619
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b21b5a39d9b7080800000000000000
+      internalID: -9188577357253760159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_27
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 610
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c0c7a8a575a911f0800000000000000
+      internalID: -1073645111391829816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_28
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 598
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64d380ceeb2ae38e0800000000000000
+      internalID: -1711751867466760890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_29
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 605
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47978fc00900fcdc0800000000000000
+      internalID: -3616671357062317708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_30
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 601
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b8d9bd3863055490800000000000000
+      internalID: -7758291036828739400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_31
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 581
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a2a33fa164021f20800000000000000
+      internalID: 3391778286961140385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_32
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 593
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae5f581fae091250800000000000000
+      internalID: 5915775730718826154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_33
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 591
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78b25c599a866b150800000000000000
+      internalID: 5888008640404990855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_34
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 597
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd72e05cca88bf70800000000000000
+      internalID: 9203258448666590719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_35
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 581
+        width: 6
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7faee16e76e18a940800000000000000
+      internalID: 5307525592447380215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_36
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 595
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75f51fca95a43080800000000000000
+      internalID: -9208553253747952259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_37
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 579
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f08be9a84b1dcc0800000000000000
+      internalID: -3687968112378376290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_38
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 541
+        width: 67
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87e76ae9983eeac90800000000000000
+      internalID: -7156532577633403272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_39
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 584
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3dd7b4497f41f1a0800000000000000
+      internalID: -6777548581953348289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_40
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 577
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069fbf87f50cae170800000000000000
+      internalID: 8208584787120355680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_41
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 567
+        width: 16
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ded7a662bbd80f0800000000000000
+      internalID: -1113027759220855552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_42
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 561
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ffecfc15ffb84b0800000000000000
+      internalID: -5436971398275858560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_43
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 559
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b13e0f847e52ccea0800000000000000
+      internalID: -5851260140569697509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_44
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 569
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d915b36b8b656f50800000000000000
+      internalID: 6874018652668369360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_45
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 531
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7362a0ed6db4acd0800000000000000
+      internalID: -2547703209567034497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_46
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 555
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1bf4f8c14823a8c0800000000000000
+      internalID: -3989300581910643939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_47
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 531
+        width: 14
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dfbbb32df9b9e0e0800000000000000
+      internalID: -2240054842762739760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_48
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 533
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee9f6bcc0c5595a70800000000000000
+      internalID: 8816172032111081966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_49
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 541
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfc74730b44d2b7b0800000000000000
+      internalID: -5209868400268641029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_50
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 533
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be72cd7056e916bd0800000000000000
+      internalID: -2638653749901645845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_51
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 533
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f3f29c4f7703fd50800000000000000
+      internalID: 6769762908194927608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_52
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 529
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1992ff2764f0a4b30800000000000000
+      internalID: 4272243991765789073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_53
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 507
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd63beed4eaa0050800000000000000
+      internalID: 5767613922541792709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_54
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 505
+        width: 18
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae56ec96848b29c0800000000000000
+      internalID: -3950918534394650972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_55
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 502
+        width: 24
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36bf32dc591fd56b0800000000000000
+      internalID: -5305819160278467741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_56
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 501
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee88f36482fe2ebb0800000000000000
+      internalID: -4908097687624120082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_57
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 509
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61b1134f3e8be3a10800000000000000
+      internalID: 1891152182736132886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_58
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 503
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bdb34b2b06baa600800000000000000
+      internalID: 480396469355134391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_59
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 479
+        width: 79
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc716451e91504bf0800000000000000
+      internalID: -342183832276559921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_60
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 492
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 876e7376599f2bdc0800000000000000
+      internalID: -3624560330002667912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_61
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 495
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e20786d06b513490800000000000000
+      internalID: -7768327410763234592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_62
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 483
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 339c433c0ed9a3910800000000000000
+      internalID: 1817938988270668083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_63
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 487
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a47b88ed29b5ae0800000000000000
+      internalID: -1559491361479636474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_64
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 473
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72514224f2feaba40800000000000000
+      internalID: 5384879290727011623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_65
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 475
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49653ea80633deaa0800000000000000
+      internalID: -6130187028041345388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_66
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 465
+        width: 9
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 121b28859e8dab7b0800000000000000
+      internalID: -5207611522376617695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_67
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 465
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9960b7c495780c2c0800000000000000
+      internalID: -4413378817218115943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_68
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 442
+        width: 40
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c6e2b80ad999bd0800000000000000
+      internalID: -2622891995111199693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_69
+      rect:
+        serializedVersion: 2
+        x: 377
+        y: 413
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6af2a49caa7bbddb0800000000000000
+      internalID: -4766013836492132442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_70
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 416
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f3e1064ac14ff80800000000000000
+      internalID: -8073796739655647368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_71
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 404
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e953c153e3d86d810800000000000000
+      internalID: 1789773200244880798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_72
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 411
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b7db087b50203f0800000000000000
+      internalID: -936179486842586220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_73
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 415
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800d69aafad549f00800000000000000
+      internalID: 1122625216184766472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_74
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 415
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5dddca1795604b30800000000000000
+      internalID: 4269524146411396445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_75
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 408
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b05bced575d7030800000000000000
+      internalID: 3494044946824235913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_76
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 409
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91be98165858f5250800000000000000
+      internalID: 5935609641811176217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_77
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 401
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fccd9d44c9b1a84a0800000000000000
+      internalID: -6590424746719322929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_78
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 405
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d250327e4ae685c40800000000000000
+      internalID: 5501268599364584749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_79
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 396
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb0fcf7303199930800000000000000
+      internalID: 4150369437348727755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_80
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 407
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1f3bc98e0e46360800000000000000
+      internalID: 7162096597092004305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_81
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 403
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f9620532d60ae80800000000000000
+      internalID: -8169409725614088339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_82
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 399
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d3e2cda38ee1ebf0800000000000000
+      internalID: -296693851106384940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_83
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 397
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f26757c56afb1980800000000000000
+      internalID: -8566978551099202830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_84
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 393
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1a8fd5ea11e5e530800000000000000
+      internalID: 3883757759318952476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_85
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 377
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d13bbbe5cb48065b0800000000000000
+      internalID: -5377152010502294755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: player_death_0251_86
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 375
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 855411b4f2a8c88c0800000000000000
+      internalID: -3995666833656953512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

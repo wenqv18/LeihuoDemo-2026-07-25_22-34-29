@@ -6,7 +6,22 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
-    guid: 8c9cfa26abfee488c85f1582747f6a02
+    path: Assets/Scenes/Start Scene.unity
+    guid: bd3049f251148144fa7d8343efd10c09
+  - enabled: 1
+    path: Assets/Scenes/UIController.unity
+    guid: b652b7c86a6b88f4dad294847edc709e
+  - enabled: 1
+    path: Assets/Scenes/TutorialLevel.unity
+    guid: fe4cfc54bdbc7424ea078f63ca85b04d
+  - enabled: 1
+    path: Assets/Scenes/Level_01.unity
+    guid: 1b6ac111348c92b438099af58c5f621f
+  - enabled: 1
+    path: Assets/Scenes/Level_02.unity
+    guid: 3b033c4143b242f4e9bd2af6f7e29ef1
+  - enabled: 1
+    path: Assets/Scenes/Level_03.unity
+    guid: 7ffcb41b637edac43a8a4e81f787ebf1
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}

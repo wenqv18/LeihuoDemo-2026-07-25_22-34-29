@@ -1,0 +1,253 @@
+fileFormatVersion: 2
+guid: d751082de8945854f9e87269a4b17eaa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3584966890263303194
+    second: SecurityCamera_0
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 1
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: 0.181
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SecurityCamera_0
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 37
+        width: 752
+        height: 462
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a145ea9846c50c130800000000000000
+      internalID: 3584966890263303194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape:
+    - - {x: -306, y: -215}
+      - {x: -302, y: -207}
+      - {x: -301, y: -194}
+      - {x: -300, y: -168}
+      - {x: -297, y: -158}
+      - {x: -260, y: -146}
+      - {x: -231, y: -138}
+      - {x: -197, y: -128}
+      - {x: -169, y: -120}
+      - {x: -141, y: -111}
+      - {x: -88, y: -97}
+      - {x: -67, y: -91}
+      - {x: -64, y: -97}
+      - {x: -59, y: -102}
+      - {x: -47, y: -104}
+      - {x: -23, y: -104}
+      - {x: -9, y: -102}
+      - {x: -1, y: -95}
+      - {x: 1, y: -91}
+      - {x: 3, y: -80}
+      - {x: 5, y: -65}
+      - {x: 6, y: -50}
+      - {x: 14, y: -41}
+      - {x: 17, y: -34}
+      - {x: 20, y: -19}
+      - {x: 20, y: -9}
+      - {x: 26, y: -10}
+      - {x: 42, y: -11}
+      - {x: 61, y: -9}
+      - {x: 72, y: -5}
+      - {x: 110, y: -9}
+      - {x: 200, y: -22}
+      - {x: 231, y: -26}
+      - {x: 265, y: -24}
+      - {x: 303, y: -21}
+      - {x: 308, y: -16}
+      - {x: 327, y: -14}
+      - {x: 334, y: -4}
+      - {x: 337, y: 13}
+      - {x: 343, y: 48}
+      - {x: 350, y: 46}
+      - {x: 358, y: 48}
+      - {x: 361, y: 54}
+      - {x: 373, y: 145}
+      - {x: 374, y: 154}
+      - {x: 374, y: 162}
+      - {x: 369, y: 172}
+      - {x: 360, y: 175}
+      - {x: 291, y: 182}
+      - {x: 243, y: 188}
+      - {x: 90, y: 203}
+      - {x: -41, y: 217}
+      - {x: -133, y: 227}
+      - {x: -139, y: 229}
+      - {x: -152, y: 229}
+      - {x: -179, y: 226}
+      - {x: -193, y: 222}
+      - {x: -199, y: 215}
+      - {x: -203, y: 207}
+      - {x: -205, y: 197}
+      - {x: -207, y: 175}
+      - {x: -215, y: 130}
+      - {x: -216, y: 112}
+      - {x: -207, y: 108}
+      - {x: -207, y: 67}
+      - {x: -206, y: 55}
+      - {x: -203, y: 48}
+      - {x: -198, y: 43}
+      - {x: -194, y: 41}
+      - {x: -161, y: 34}
+      - {x: -161, y: 28}
+      - {x: -153, y: 23}
+      - {x: -113, y: 18}
+      - {x: -103, y: 10}
+      - {x: -77, y: 5}
+      - {x: -67, y: -4}
+      - {x: -67, y: -22}
+      - {x: -66, y: -28}
+      - {x: -64, y: -34}
+      - {x: -69, y: -46}
+      - {x: -93, y: -43}
+      - {x: -124, y: -42}
+      - {x: -163, y: -39}
+      - {x: -216, y: -36}
+      - {x: -294, y: -31}
+      - {x: -299, y: -29}
+      - {x: -300, y: -5}
+      - {x: -302, y: 19}
+      - {x: -315, y: 26}
+      - {x: -346, y: 28}
+      - {x: -369, y: 27}
+      - {x: -374, y: 20}
+      - {x: -374, y: -202}
+      - {x: -373, y: -218}
+      - {x: -372, y: -225}
+      - {x: -368, y: -228}
+      - {x: -346, y: -228}
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 1537655665
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      SecurityCamera_0: 3584966890263303194
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

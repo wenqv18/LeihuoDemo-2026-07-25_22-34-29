@@ -1,0 +1,3250 @@
+fileFormatVersion: 2
+guid: d0e53b57e4bdac7488b44a985323923b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2124027679095274847
+    second: RecordBook_01_0
+  - first:
+      213: -1358033445918286447
+    second: RecordBook_01_1
+  - first:
+      213: -6717643822602317882
+    second: RecordBook_01_2
+  - first:
+      213: -5709740128563923375
+    second: RecordBook_01_3
+  - first:
+      213: 7324232995459130043
+    second: RecordBook_01_4
+  - first:
+      213: 2037140850815223834
+    second: RecordBook_01_5
+  - first:
+      213: 1549022435352992639
+    second: RecordBook_01_6
+  - first:
+      213: -8399624799009315671
+    second: RecordBook_01_7
+  - first:
+      213: 9016521772264601796
+    second: RecordBook_01_8
+  - first:
+      213: -1712103412152019486
+    second: RecordBook_01_9
+  - first:
+      213: -8141286020061062836
+    second: RecordBook_01_10
+  - first:
+      213: -1883321010859547642
+    second: RecordBook_01_11
+  - first:
+      213: 1834254075865297352
+    second: RecordBook_01_12
+  - first:
+      213: 8201401766407438131
+    second: RecordBook_01_13
+  - first:
+      213: 4299702471657287548
+    second: RecordBook_01_14
+  - first:
+      213: 2714690903607541960
+    second: RecordBook_01_15
+  - first:
+      213: -2891864682077498240
+    second: RecordBook_01_16
+  - first:
+      213: -5138577743029290620
+    second: RecordBook_01_17
+  - first:
+      213: -5316690530963238570
+    second: RecordBook_01_18
+  - first:
+      213: 8461938179222284367
+    second: RecordBook_01_19
+  - first:
+      213: -4282851168909912652
+    second: RecordBook_01_20
+  - first:
+      213: -5804594933524905483
+    second: RecordBook_01_21
+  - first:
+      213: 4268835914419866727
+    second: RecordBook_01_22
+  - first:
+      213: -1026586164543395412
+    second: RecordBook_01_23
+  - first:
+      213: 6353984542919290889
+    second: RecordBook_01_24
+  - first:
+      213: -4766683595035702542
+    second: RecordBook_01_25
+  - first:
+      213: -4686400858762926812
+    second: RecordBook_01_26
+  - first:
+      213: -121062432631871392
+    second: RecordBook_01_27
+  - first:
+      213: -6069659655027150722
+    second: RecordBook_01_28
+  - first:
+      213: 793769815987800222
+    second: RecordBook_01_29
+  - first:
+      213: 8417196902555897820
+    second: RecordBook_01_30
+  - first:
+      213: -4819853264303155427
+    second: RecordBook_01_31
+  - first:
+      213: 3617735159386423815
+    second: RecordBook_01_32
+  - first:
+      213: -5170280523726470400
+    second: RecordBook_01_33
+  - first:
+      213: 3661761782665523183
+    second: RecordBook_01_34
+  - first:
+      213: -4092227133215614824
+    second: RecordBook_01_35
+  - first:
+      213: 7357500922290680196
+    second: RecordBook_01_36
+  - first:
+      213: -7580829533920160726
+    second: RecordBook_01_37
+  - first:
+      213: 3695024792676448330
+    second: RecordBook_01_38
+  - first:
+      213: -923270319099686674
+    second: RecordBook_01_39
+  - first:
+      213: 937733160365327763
+    second: RecordBook_01_40
+  - first:
+      213: -2871011176003560755
+    second: RecordBook_01_41
+  - first:
+      213: 3648492210213045162
+    second: RecordBook_01_42
+  - first:
+      213: -2783364150708758312
+    second: RecordBook_01_43
+  - first:
+      213: 8775895315512750045
+    second: RecordBook_01_44
+  - first:
+      213: -8248275040586352956
+    second: RecordBook_01_45
+  - first:
+      213: 8127032383023884287
+    second: RecordBook_01_46
+  - first:
+      213: -826274488876252665
+    second: RecordBook_01_47
+  - first:
+      213: 7618334953474945367
+    second: RecordBook_01_48
+  - first:
+      213: -4553108493367181793
+    second: RecordBook_01_49
+  - first:
+      213: -4790848645926379212
+    second: RecordBook_01_50
+  - first:
+      213: 4087039609546459789
+    second: RecordBook_01_51
+  - first:
+      213: -1908041683145954030
+    second: RecordBook_01_52
+  - first:
+      213: 766832356844057717
+    second: RecordBook_01_53
+  - first:
+      213: 6229336563697779493
+    second: RecordBook_01_54
+  - first:
+      213: -6732566926952892374
+    second: RecordBook_01_55
+  - first:
+      213: -7517042381143202968
+    second: RecordBook_01_56
+  - first:
+      213: 4750172738175064653
+    second: RecordBook_01_57
+  - first:
+      213: 1051882496158102878
+    second: RecordBook_01_58
+  - first:
+      213: 2903047097690914279
+    second: RecordBook_01_59
+  - first:
+      213: 6143038012495981515
+    second: RecordBook_01_60
+  - first:
+      213: -3563613212921918462
+    second: RecordBook_01_61
+  - first:
+      213: -2683903105237083512
+    second: RecordBook_01_62
+  - first:
+      213: -1721749897575336609
+    second: RecordBook_01_63
+  - first:
+      213: -5856164739164791612
+    second: RecordBook_01_64
+  - first:
+      213: -7320329221032853695
+    second: RecordBook_01_65
+  - first:
+      213: 2798868290903122631
+    second: RecordBook_01_66
+  - first:
+      213: 4609471544626103664
+    second: RecordBook_01_67
+  - first:
+      213: -4302480401172978949
+    second: RecordBook_01_68
+  - first:
+      213: 2445302688453255518
+    second: RecordBook_01_69
+  - first:
+      213: -5059509184563043373
+    second: RecordBook_01_70
+  - first:
+      213: -9030191000795819496
+    second: RecordBook_01_71
+  - first:
+      213: 1473210041720479310
+    second: RecordBook_01_72
+  - first:
+      213: -4773686990042023558
+    second: RecordBook_01_73
+  - first:
+      213: -5083080275219497919
+    second: RecordBook_01_74
+  - first:
+      213: 1175578207953415641
+    second: RecordBook_01_75
+  - first:
+      213: -1515105755565002910
+    second: RecordBook_01_76
+  - first:
+      213: 1653295561620157443
+    second: RecordBook_01_77
+  - first:
+      213: -4871107829373152845
+    second: RecordBook_01_78
+  - first:
+      213: 5899003232062172903
+    second: RecordBook_01_79
+  - first:
+      213: 3612544116630056001
+    second: RecordBook_01_80
+  - first:
+      213: 8348807354556177550
+    second: RecordBook_01_81
+  - first:
+      213: 8143140407405399309
+    second: RecordBook_01_82
+  - first:
+      213: -2638720900276614813
+    second: RecordBook_01_83
+  - first:
+      213: 2390083352516613494
+    second: RecordBook_01_84
+  - first:
+      213: -5517410290349518107
+    second: RecordBook_01_85
+  - first:
+      213: 9014908488495471637
+    second: RecordBook_01_86
+  - first:
+      213: 3234461841182925254
+    second: RecordBook_01_87
+  - first:
+      213: 625430442501405731
+    second: RecordBook_01_88
+  - first:
+      213: -2538040395925759642
+    second: RecordBook_01_89
+  - first:
+      213: -3963767236566597560
+    second: RecordBook_01_90
+  - first:
+      213: 7087210820845686546
+    second: RecordBook_01_91
+  - first:
+      213: 7974607774323381292
+    second: RecordBook_01_92
+  - first:
+      213: 1057488833706346973
+    second: RecordBook_01_93
+  - first:
+      213: 3631600264697495355
+    second: RecordBook_01_94
+  - first:
+      213: 220202027918981583
+    second: RecordBook_01_95
+  - first:
+      213: -7309134728634333053
+    second: RecordBook_01_96
+  - first:
+      213: -1198856899713681190
+    second: RecordBook_01_97
+  - first:
+      213: 7117947258476254084
+    second: RecordBook_01_98
+  - first:
+      213: -806488658672799684
+    second: RecordBook_01_99
+  - first:
+      213: 6830035484334016650
+    second: RecordBook_01_100
+  - first:
+      213: 6665708343821613601
+    second: RecordBook_01_101
+  - first:
+      213: -6361481285911027970
+    second: RecordBook_01_102
+  - first:
+      213: -4853991223464683351
+    second: RecordBook_01_103
+  - first:
+      213: -8265438835656619888
+    second: RecordBook_01_104
+  - first:
+      213: -9198900065468204171
+    second: RecordBook_01_105
+  - first:
+      213: -6356143926438105297
+    second: RecordBook_01_106
+  - first:
+      213: -9036306531610014330
+    second: RecordBook_01_107
+  - first:
+      213: 6977778537941026774
+    second: RecordBook_01_108
+  - first:
+      213: 7607257592267315270
+    second: RecordBook_01_109
+  - first:
+      213: -2419050732346672178
+    second: RecordBook_01_110
+  - first:
+      213: -888766528872674840
+    second: RecordBook_01_111
+  - first:
+      213: -6807070290065368745
+    second: RecordBook_01_112
+  - first:
+      213: 91956569299604383
+    second: RecordBook_01_113
+  - first:
+      213: 488845147779027880
+    second: RecordBook_01_114
+  - first:
+      213: 448959655816891822
+    second: RecordBook_01_115
+  - first:
+      213: -1127538965363772903
+    second: RecordBook_01_116
+  - first:
+      213: -3939777586760844199
+    second: RecordBook_01_117
+  - first:
+      213: -2328655087263884330
+    second: RecordBook_01_118
+  - first:
+      213: -8656397387467281753
+    second: RecordBook_01_119
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RecordBook_01_0
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 142
+        width: 647
+        height: 812
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a2cd665410f582e0800000000000000
+      internalID: -2124027679095274847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_1
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 89
+        width: 461
+        height: 793
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19dd0fea6cb472de0800000000000000
+      internalID: -1358033445918286447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_2
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 305
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf0132f88226c2a0800000000000000
+      internalID: -6717643822602317882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_3
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 325
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1567725ca9de2c0b0800000000000000
+      internalID: -5709740128563923375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_4
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 305
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2698a9a17e4a560800000000000000
+      internalID: 7324232995459130043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_5
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 323
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1847428fc0654c10800000000000000
+      internalID: 2037140850815223834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_6
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 305
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b5358a2bb3f7510800000000000000
+      internalID: 1549022435352992639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_7
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 323
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4ec789fb98e6b80800000000000000
+      internalID: -8399624799009315671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_8
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 305
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c83861c7ce112d70800000000000000
+      internalID: 9016521772264601796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_9
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 305
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e5d1fb84036d38e0800000000000000
+      internalID: -1712103412152019486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_10
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 269
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c491867cf77540f80800000000000000
+      internalID: -8141286020061062836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_11
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 268
+        width: 37
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 604efa5d4891dd5e0800000000000000
+      internalID: -1883321010859547642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_12
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 287
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c173cb1d54947910800000000000000
+      internalID: 1834254075865297352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_13
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 305
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ff9f2247b31d170800000000000000
+      internalID: 8201401766407438131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_14
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 287
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f600ffd9c9bab30800000000000000
+      internalID: 4299702471657287548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_15
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 269
+        width: 16
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c003886ef48ca520800000000000000
+      internalID: 2714690903607541960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_16
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 107
+        width: 224
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 084d546b4680ed7d0800000000000000
+      internalID: -2891864682077498240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_17
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 269
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 489b200a4ca10b8b0800000000000000
+      internalID: -5138577743029290620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_18
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 269
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651d04191225736b0800000000000000
+      internalID: -5316690530963238570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_19
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 269
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f482cd3d0f7de6570800000000000000
+      internalID: 8461938179222284367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_20
+      rect:
+        serializedVersion: 2
+        x: 237
+        y: 0
+        width: 392
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5124bad814094c0800000000000000
+      internalID: -4282851168909912652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_21
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 136
+        width: 152
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f1473a79afe17fa0800000000000000
+      internalID: -5804594933524905483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_22
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 139
+        width: 47
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76c0d6b95a3fd3b30800000000000000
+      internalID: 4268835914419866727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_23
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 132
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca96f0b8255d0c1f0800000000000000
+      internalID: -1026586164543395412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_24
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 125
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 900f605e643ed2850800000000000000
+      internalID: 6353984542919290889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_25
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 125
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa0739768659ddb0800000000000000
+      internalID: -4766683595035702542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_26
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 107
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425a952af3f86feb0800000000000000
+      internalID: -4686400858762926812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_27
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 102
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0682553eb56e15ef0800000000000000
+      internalID: -121062432631871392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_28
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 107
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e703692c3bc34cba0800000000000000
+      internalID: -6069659655027150722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_29
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 89
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e98416b2179040b00800000000000000
+      internalID: 793769815987800222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_30
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 89
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdfcc559cf3efc470800000000000000
+      internalID: 8417196902555897820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_31
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 107
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1714b72ef07c1db0800000000000000
+      internalID: -4819853264303155427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_32
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 89
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7024baab5f6c43230800000000000000
+      internalID: 3617735159386423815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_33
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 89
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 003c92ac1497f38b0800000000000000
+      internalID: -5170280523726470400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_34
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 89
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef21e3c0f031d230800000000000000
+      internalID: 3661761782665523183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_35
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 71
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898d7789a1d7537c0800000000000000
+      internalID: -4092227133215614824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_36
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 35
+        width: 70
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481bebb6b181b1660800000000000000
+      internalID: 7357500922290680196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_37
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 89
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2416ef24bb7bc690800000000000000
+      internalID: -7580829533920160726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_38
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 89
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48bdbbc87d574330800000000000000
+      internalID: 3695024792676448330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_39
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 97
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee0d6665982ef23f0800000000000000
+      internalID: -923270319099686674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_40
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 91
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3950ead475f730d00800000000000000
+      internalID: 937733160365327763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_41
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 53
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dca9124fb8e1828d0800000000000000
+      internalID: -2871011176003560755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_42
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 69
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3478ba55c02a230800000000000000
+      internalID: 3648492210213045162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_43
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 53
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d892744d018f59d0800000000000000
+      internalID: -2783364150708758312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_44
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 53
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddfe623fa4e3ac970800000000000000
+      internalID: 8775895315512750045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_45
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 53
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c631244d8d388d80800000000000000
+      internalID: -8248275040586352956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_46
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 53
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff72c3cb4e409c070800000000000000
+      internalID: 8127032383023884287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_47
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 71
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 702409beabb7884f0800000000000000
+      internalID: -826274488876252665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_48
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 53
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 751f0d9c643c9b960800000000000000
+      internalID: 7618334953474945367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_49
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 71
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ef80dd2fb10d0c0800000000000000
+      internalID: -4553108493367181793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_50
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 53
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 431a5ee1a8c738db0800000000000000
+      internalID: -4790848645926379212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_51
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 71
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ac7fdeed418b830800000000000000
+      internalID: 4087039609546459789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_52
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 53
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d627bc2364585e0800000000000000
+      internalID: -1908041683145954030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_53
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 70
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57437f737f554aa00800000000000000
+      internalID: 766832356844057717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_54
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 53
+        width: 43
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5230f89a99c037650800000000000000
+      internalID: 6229336563697779493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_55
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 53
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a28fd64fc0e1192a0800000000000000
+      internalID: -6732566926952892374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_56
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 71
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 863276608c91ea790800000000000000
+      internalID: -7517042381143202968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_57
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 53
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4a5ba810f00ce140800000000000000
+      internalID: 4750172738175064653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_58
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 71
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5574f0ae89099e00800000000000000
+      internalID: 1051882496158102878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_59
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 53
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed781054f1b94820800000000000000
+      internalID: 2903047097690914279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_60
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 53
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb6b807684704550800000000000000
+      internalID: 6143038012495981515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_61
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 37
+        width: 44
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c86e6e9a08b8ec0800000000000000
+      internalID: -3563613212921918462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_62
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 63
+        width: 10
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a96c0885cd0cad0800000000000000
+      internalID: -2683903105237083512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_63
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 53
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f55f4f2279d1b18e0800000000000000
+      internalID: -1721749897575336609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_64
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 53
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc1aef6239babea0800000000000000
+      internalID: -5856164739164791612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_65
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 35
+        width: 57
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14fbc65bb57f86a90800000000000000
+      internalID: -7320329221032853695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_66
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 35
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c2a26ca1e397d620800000000000000
+      internalID: 2798868290903122631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_67
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 38
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 075c5b3a2f128ff30800000000000000
+      internalID: 4609471544626103664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_68
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 41
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf22103eed48a44c0800000000000000
+      internalID: -4302480401172978949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_69
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 35
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e516091e6d57fe120800000000000000
+      internalID: 2445302688453255518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_70
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 44
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d32b4cf33309c9b0800000000000000
+      internalID: -5059509184563043373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_71
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 45
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 812d2a7f0215ea280800000000000000
+      internalID: -9030191000795819496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_72
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 36
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4e99404ab4e17410800000000000000
+      internalID: 1473210041720479310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_73
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 44
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7934a189f470cdb0800000000000000
+      internalID: -4773686990042023558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_74
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 35
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c3fb6cb654579b0800000000000000
+      internalID: -5083080275219497919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_75
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 35
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dde0c2d62e705010800000000000000
+      internalID: 1175578207953415641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_76
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 35
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26fe56ab75349fae0800000000000000
+      internalID: -1515105755565002910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_77
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 31
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3047913cd8fa1f610800000000000000
+      internalID: 1653295561620157443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_78
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 35
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1d697cc39566cb0800000000000000
+      internalID: -4871107829373152845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_79
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 35
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee62ff6f287dd150800000000000000
+      internalID: 5899003232062172903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_80
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 35
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c6927ebb5522230800000000000000
+      internalID: 3612544116630056001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_81
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 35
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c5d7a1e0cecd370800000000000000
+      internalID: 8348807354556177550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_82
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 35
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d478b6e0f320170800000000000000
+      internalID: 8143140407405399309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_83
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 35
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3690d9d5251616bd0800000000000000
+      internalID: -2638720900276614813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_84
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 35
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675d35a55284b2120800000000000000
+      internalID: 2390083352516613494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_85
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 35
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e2d1abc2983e63b0800000000000000
+      internalID: -5517410290349518107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_86
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 35
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51c1d6bd1836b1d70800000000000000
+      internalID: 9014908488495471637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_87
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 16
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1a34b58ed13ec20800000000000000
+      internalID: 3234461841182925254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_88
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 20
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32cf20d7ca9fda800800000000000000
+      internalID: 625430442501405731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_89
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 17
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 669d04ff4b117ccd0800000000000000
+      internalID: -2538040395925759642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_90
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 17
+        width: 23
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840cd1403beddf8c0800000000000000
+      internalID: -3963767236566597560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_91
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 17
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21fcfc021b4da5260800000000000000
+      internalID: 7087210820845686546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_92
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 17
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c241d9bf48f7bae60800000000000000
+      internalID: 7974607774323381292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_93
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 17
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9420fcd74fcae00800000000000000
+      internalID: 1057488833706346973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_94
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 17
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3f328f1339066230800000000000000
+      internalID: 3631600264697495355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_95
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 17
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc97ee4e3905e0300800000000000000
+      internalID: 220202027918981583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_96
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 17
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 388874490bcb09a90800000000000000
+      internalID: -7309134728634333053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_97
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 23
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad83a04600ecc5fe0800000000000000
+      internalID: -1198856899713681190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_98
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 17
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483517fa15708c260800000000000000
+      internalID: 7117947258476254084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_99
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 17
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c303d6086d6cec4f0800000000000000
+      internalID: -806488658672799684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_100
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 0
+        width: 36
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a88ca0ff51929ce50800000000000000
+      internalID: 6830035484334016650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_101
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 17
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a38d91c6a518c50800000000000000
+      internalID: 6665708343821613601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_102
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 17
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe5afb997a77b7a0800000000000000
+      internalID: -6361481285911027970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_103
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 17
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a8168623b823acb0800000000000000
+      internalID: -4853991223464683351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_104
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 0
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09808ffcb234b4d80800000000000000
+      internalID: -8265438835656619888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_105
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 4
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57b3379d021f65080800000000000000
+      internalID: -9198900065468204171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_106
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 0
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f666376c07ac7a0800000000000000
+      internalID: -6356143926438105297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_107
+      rect:
+        serializedVersion: 2
+        x: 882
+        y: 17
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68dc7ddf517989280800000000000000
+      internalID: -9036306531610014330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_108
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 17
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7c1534c9c06d060800000000000000
+      internalID: 6977778537941026774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_109
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 17
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6489cf5a978629960800000000000000
+      internalID: 7607257592267315270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_110
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 0
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecbf3d4fc2ecd6ed0800000000000000
+      internalID: -2419050732346672178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_111
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 0
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e989460d877aa3f0800000000000000
+      internalID: -888766528872674840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_112
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 0
+        width: 15
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 759d987f2ad6881a0800000000000000
+      internalID: -6807070290065368745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_113
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 0
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f93ddd73302b64100800000000000000
+      internalID: 91956569299604383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_114
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 0
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a3da87621ab8c600800000000000000
+      internalID: 488845147779027880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_115
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 0
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ead8273ad660b3600800000000000000
+      internalID: 448959655816891822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_116
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 912b413f84d2a50f0800000000000000
+      internalID: -1127538965363772903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_117
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 0
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95cf21f98291359c0800000000000000
+      internalID: -3939777586760844199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_118
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 0
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dbda3f2984feafd0800000000000000
+      internalID: -2328655087263884330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RecordBook_01_119
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 0
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aaa46d807c4ed780800000000000000
+      internalID: -8656397387467281753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      RecordBook_01_0: -2124027679095274847
+      RecordBook_01_1: -1358033445918286447
+      RecordBook_01_10: -8141286020061062836
+      RecordBook_01_100: 6830035484334016650
+      RecordBook_01_101: 6665708343821613601
+      RecordBook_01_102: -6361481285911027970
+      RecordBook_01_103: -4853991223464683351
+      RecordBook_01_104: -8265438835656619888
+      RecordBook_01_105: -9198900065468204171
+      RecordBook_01_106: -6356143926438105297
+      RecordBook_01_107: -9036306531610014330
+      RecordBook_01_108: 6977778537941026774
+      RecordBook_01_109: 7607257592267315270
+      RecordBook_01_11: -1883321010859547642
+      RecordBook_01_110: -2419050732346672178
+      RecordBook_01_111: -888766528872674840
+      RecordBook_01_112: -6807070290065368745
+      RecordBook_01_113: 91956569299604383
+      RecordBook_01_114: 488845147779027880
+      RecordBook_01_115: 448959655816891822
+      RecordBook_01_116: -1127538965363772903
+      RecordBook_01_117: -3939777586760844199
+      RecordBook_01_118: -2328655087263884330
+      RecordBook_01_119: -8656397387467281753
+      RecordBook_01_12: 1834254075865297352
+      RecordBook_01_13: 8201401766407438131
+      RecordBook_01_14: 4299702471657287548
+      RecordBook_01_15: 2714690903607541960
+      RecordBook_01_16: -2891864682077498240
+      RecordBook_01_17: -5138577743029290620
+      RecordBook_01_18: -5316690530963238570
+      RecordBook_01_19: 8461938179222284367
+      RecordBook_01_2: -6717643822602317882
+      RecordBook_01_20: -4282851168909912652
+      RecordBook_01_21: -5804594933524905483
+      RecordBook_01_22: 4268835914419866727
+      RecordBook_01_23: -1026586164543395412
+      RecordBook_01_24: 6353984542919290889
+      RecordBook_01_25: -4766683595035702542
+      RecordBook_01_26: -4686400858762926812
+      RecordBook_01_27: -121062432631871392
+      RecordBook_01_28: -6069659655027150722
+      RecordBook_01_29: 793769815987800222
+      RecordBook_01_3: -5709740128563923375
+      RecordBook_01_30: 8417196902555897820
+      RecordBook_01_31: -4819853264303155427
+      RecordBook_01_32: 3617735159386423815
+      RecordBook_01_33: -5170280523726470400
+      RecordBook_01_34: 3661761782665523183
+      RecordBook_01_35: -4092227133215614824
+      RecordBook_01_36: 7357500922290680196
+      RecordBook_01_37: -7580829533920160726
+      RecordBook_01_38: 3695024792676448330
+      RecordBook_01_39: -923270319099686674
+      RecordBook_01_4: 7324232995459130043
+      RecordBook_01_40: 937733160365327763
+      RecordBook_01_41: -2871011176003560755
+      RecordBook_01_42: 3648492210213045162
+      RecordBook_01_43: -2783364150708758312
+      RecordBook_01_44: 8775895315512750045
+      RecordBook_01_45: -8248275040586352956
+      RecordBook_01_46: 8127032383023884287
+      RecordBook_01_47: -826274488876252665
+      RecordBook_01_48: 7618334953474945367
+      RecordBook_01_49: -4553108493367181793
+      RecordBook_01_5: 2037140850815223834
+      RecordBook_01_50: -4790848645926379212
+      RecordBook_01_51: 4087039609546459789
+      RecordBook_01_52: -1908041683145954030
+      RecordBook_01_53: 766832356844057717
+      RecordBook_01_54: 6229336563697779493
+      RecordBook_01_55: -6732566926952892374
+      RecordBook_01_56: -7517042381143202968
+      RecordBook_01_57: 4750172738175064653
+      RecordBook_01_58: 1051882496158102878
+      RecordBook_01_59: 2903047097690914279
+      RecordBook_01_6: 1549022435352992639
+      RecordBook_01_60: 6143038012495981515
+      RecordBook_01_61: -3563613212921918462
+      RecordBook_01_62: -2683903105237083512
+      RecordBook_01_63: -1721749897575336609
+      RecordBook_01_64: -5856164739164791612
+      RecordBook_01_65: -7320329221032853695
+      RecordBook_01_66: 2798868290903122631
+      RecordBook_01_67: 4609471544626103664
+      RecordBook_01_68: -4302480401172978949
+      RecordBook_01_69: 2445302688453255518
+      RecordBook_01_7: -8399624799009315671
+      RecordBook_01_70: -5059509184563043373
+      RecordBook_01_71: -9030191000795819496
+      RecordBook_01_72: 1473210041720479310
+      RecordBook_01_73: -4773686990042023558
+      RecordBook_01_74: -5083080275219497919
+      RecordBook_01_75: 1175578207953415641
+      RecordBook_01_76: -1515105755565002910
+      RecordBook_01_77: 1653295561620157443
+      RecordBook_01_78: -4871107829373152845
+      RecordBook_01_79: 5899003232062172903
+      RecordBook_01_8: 9016521772264601796
+      RecordBook_01_80: 3612544116630056001
+      RecordBook_01_81: 8348807354556177550
+      RecordBook_01_82: 8143140407405399309
+      RecordBook_01_83: -2638720900276614813
+      RecordBook_01_84: 2390083352516613494
+      RecordBook_01_85: -5517410290349518107
+      RecordBook_01_86: 9014908488495471637
+      RecordBook_01_87: 3234461841182925254
+      RecordBook_01_88: 625430442501405731
+      RecordBook_01_89: -2538040395925759642
+      RecordBook_01_9: -1712103412152019486
+      RecordBook_01_90: -3963767236566597560
+      RecordBook_01_91: 7087210820845686546
+      RecordBook_01_92: 7974607774323381292
+      RecordBook_01_93: 1057488833706346973
+      RecordBook_01_94: 3631600264697495355
+      RecordBook_01_95: 220202027918981583
+      RecordBook_01_96: -7309134728634333053
+      RecordBook_01_97: -1198856899713681190
+      RecordBook_01_98: 7117947258476254084
+      RecordBook_01_99: -806488658672799684
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

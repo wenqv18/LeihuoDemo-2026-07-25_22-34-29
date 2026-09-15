@@ -1,0 +1,24 @@
+normal_key	normal_name	special_name	n_canvas	s_canvas	n_bbox	s_bbox	bbox_w_ratio	bbox_h_ratio
+background	Background.png	Background.png	(4096, 1399)	(4096, 1397)	(4096, 1399)	(4096, 1397)	1.0	0.999
+book	Book.png	Books.png	(149, 124)	(149, 124)	(149, 124)	(149, 124)	1.0	1.0
+computer	Computer.png	Computer.png	(768, 692)	(768, 692)	(569, 474)	(569, 474)	1.0	1.0
+cup	Cup.png	Cup.png	(50, 67)	(50, 67)	(50, 67)	(45, 67)	0.9	1.0
+cup	Cup.png	Cup2.png	(50, 67)	(50, 67)	(50, 67)	(45, 67)	0.9	1.0
+electricalpanel	ElectricalPanel.png	ElectricalPanel.png	(490, 810)	(490, 810)	(415, 699)	(422, 700)	1.017	1.001
+hanginglamp	HangingLamp.png	HangingLamp.png	(556, 694)	(556, 694)	(480, 594)	(481, 598)	1.002	1.007
+leftbookshelf	LeftBookshelf.png	LeftBookShelf.png	(429, 613)	(429, 613)	(429, 613)	(429, 613)	1.0	1.0
+map	Map.png	Map.png	(993, 786)	(993, 786)	(884, 571)	(884, 571)	1.0	1.0
+memo_01	Memo_01.png	Memo_01.png	(358, 374)	(358, 374)	(296, 314)	(309, 322)	1.044	1.025
+memo_02	Memo_02.png	Memo_02.png	(242, 392)	(242, 392)	(208, 333)	(206, 339)	0.99	1.018
+memo_03	Memo_03.png	Memo_03.png	(432, 278)	(432, 278)	(373, 237)	(366, 241)	0.981	1.017
+memo_04	Memo_04.png	Memo_04.png	(504, 332)	(504, 332)	(392, 275)	(436, 288)	1.112	1.047
+printer	Printer.png	Printer.png	(185, 115)	(185, 115)	(185, 115)	(185, 112)	1.0	0.974
+rightbookshelf	RightBookshelf.png	RightBookShelf.png	(437, 613)	(437, 613)	(437, 613)	(437, 613)	1.0	1.0
+securitycamera	SecurityCamera.png	SecurityCamera.png	(876, 536)	(876, 536)	(752, 462)	(756, 463)	1.005	1.002
+shelf	Shelf.png	Shelf.png	(566, 912)	(566, 912)	(461, 775)	(489, 787)	1.061	1.015
+table	Table.png	Table.png	(570, 331)	(570, 331)	(570, 331)	(570, 331)	1.0	1.0
+uibackground	UIBackground.jpg	UIBackground.jpg	(4096, 1399)	(4096, 1397)	(4096, 1399)	(4096, 1397)	1.0	0.999
+water	Water.png	Water1.png	(139, 480)	(139, 480)	(139, 480)	(139, 480)	1.0	1.0
+window	Window.png	Window.png	(365, 436)	(365, 436)	(365, 436)	(365, 425)	1.0	0.975
+window	Window.png	Window2.png	(365, 436)	(365, 436)	(365, 436)	(365, 436)	1.0	1.0
+window	Window.png	Window3.png	(365, 436)	(365, 436)	(365, 436)	(365, 436)	1.0	1.0

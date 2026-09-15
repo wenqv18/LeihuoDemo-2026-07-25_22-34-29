@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: adf8d2f5e2dca2847a2a048d7d076e02, type: 3}
+  m_Name: SfxLoudnessProfile
+  m_EditorClassIdentifier: Assembly-CSharp::SfxLoudnessProfile
+  targetRmsDb: -18
+  entries:
+  - clipName: button_done
+    activeRmsDb: -17.940907
+    gain: 0.9932197
+  - clipName: "N\u8F6CS\u97F3\u6548"
+    activeRmsDb: -15.040456
+    gain: 0.71125084
+  - clipName: slider_tick
+    activeRmsDb: -15.958362
+    gain: 0.7905295
+  - clipName: "S\u8F6CN\u97F3\u6548"
+    activeRmsDb: -16.018538
+    gain: 0.7960253
+  - clipName: typing_start
+    activeRmsDb: -19.046225
+    gain: 1.1280055
+  - clipName: "\u5F00\u95E8\u58F0"
+    activeRmsDb: -17.683842
+    gain: 0.9642554
+  - clipName: "\u5F00\u95E8\u58F01"
+    activeRmsDb: -17.149752
+    gain: 0.90675
+  - clipName: "\u602A\u7269\u53EB\u58F0"
+    activeRmsDb: -17.975733
+    gain: 0.99721
+  - clipName: "\u60AC\u505C hover \u9009\u62E9 UI \u754C\u9762 \u6309\u94AE \u673A\u68B0
+      \u53CD\u9988 \u6E38\u620F _\u7231\u7ED9\u7F51_aigei_com"
+    activeRmsDb: -23.150045
+    gain: 1.8092654
+  - clipName: "\u62CD\u7167\u5931\u8D25"
+    activeRmsDb: -16.689705
+    gain: 0.85997385
+  - clipName: "\u6C34\u58F0"
+    activeRmsDb: -16.085836
+    gain: 0.80221695
+  - clipName: "\u706F\u6545\u969C\u58F0"
+    activeRmsDb: -16.782671
+    gain: 0.8692277
+  - clipName: "\u70B9\u51FB\u6309\u94AE"
+    activeRmsDb: -18.627352
+    gain: 1.0748988
+  - clipName: "\u7FFB\u4E66\u58F0"
+    activeRmsDb: -18.291725
+    gain: 1.0341564
+  - clipName: "\u8D70\u8DEF\u58F0"
+    activeRmsDb: -17.64272
+    gain: 0.95970106

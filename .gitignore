@@ -105,3 +105,11 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+# Local working backups and generated review reports
+/_codex_backups/
+/_codex_reports/
+
+# Python bytecode cache
+__pycache__/
+*.py[cod]

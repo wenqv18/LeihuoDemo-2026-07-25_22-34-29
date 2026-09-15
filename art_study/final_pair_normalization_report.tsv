@@ -1,0 +1,10 @@
+special_name	normal_ref	old_special_canvas	new_special_canvas	old_special_bbox	new_special_bbox
+Cup.png	Cup.png	(73, 121)	(50, 67)	(69, 121)	(45, 67)
+Cup2.png	Cup.png	(69, 122)	(50, 67)	(69, 122)	(45, 67)
+LeftBookShelf.png	LeftBookshelf.png	(674, 936)	(429, 613)	(674, 936)	(429, 613)
+Map.png	Map.png	(1030, 721)	(993, 786)	(1025, 721)	(884, 571)
+RightBookShelf.png	RightBookshelf.png	(720, 977)	(437, 613)	(694, 974)	(437, 613)
+Table.png	Table.png	(904, 490)	(570, 331)	(904, 490)	(570, 331)
+Window.png	Window.png	(804, 793)	(365, 436)	(803, 793)	(365, 425)
+Window2.png	Window.png	(542, 753)	(365, 436)	(541, 751)	(365, 436)
+Window3.png	Window.png	(804, 793)	(365, 436)	(367, 431)	(365, 436)

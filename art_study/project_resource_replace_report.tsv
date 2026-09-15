@@ -1,0 +1,73 @@
+target	source	action
+NormalWorld\InteractionEnvironment\Book.png	D:\unity资料\雷火图片资源\NewNormalWorld_Final\Book.png	replaced_direct
+NormalWorld\InteractionEnvironment\Box.png	D:\unity资料\雷火图片资源\NewNormalWorld_Final\Box.png	replaced_direct
+NormalWorld\InteractionEnvironment\Computer.png	D:\unity资料\雷火图片资源\NewNormalWorld_Final\Computer.png	replaced_direct
+NormalWorld\InteractionEnvironment\Cup.png	D:\unity资料\雷火图片资源\NewNormalWorld_Final\Cup.png	replaced_direct
+NormalWorld\InteractionEnvironment\Door.png	D:\unity资料\雷火图片资源\NewNormalWorld_Final\Door.png	replaced_direct
+NormalWorld\InteractionEnvironment\ElectricalPanel.png	D:\unity资料\雷火图片资源\NewNormalWorld_Final\ElectricalPanel.png	replaced_direct
+NormalWorld\InteractionEnvironment\HangingLamp.png	D:\unity资料\雷火图片资源\NewNormalWorld_Final\HangingLamp.png	replaced_direct
+NormalWorld\InteractionEnvironment\Memo_01.png	D:\unity资料\雷火图片资源\NewNormalWorld_Final\Memo_01.png	replaced_direct
+NormalWorld\InteractionEnvironment\Memo_02.png	D:\unity资料\雷火图片资源\NewNormalWorld_Final\Memo_02.png	replaced_direct
+NormalWorld\InteractionEnvironment\Memo_03.png	D:\unity资料\雷火图片资源\NewNormalWorld_Final\Memo_03.png	replaced_direct
+NormalWorld\InteractionEnvironment\Memo_04.png	D:\unity资料\雷火图片资源\NewNormalWorld_Final\Memo_04.png	replaced_direct
+NormalWorld\InteractionEnvironment\MiniBox.png	D:\unity资料\雷火图片资源\NewNormalWorld_Final\MiniBox.png	replaced_direct
+NormalWorld\InteractionEnvironment\Printer.png	D:\unity资料\雷火图片资源\NewNormalWorld_Final\Printer.png	replaced_direct
+NormalWorld\InteractionEnvironment\SecurityCamera.png	D:\unity资料\雷火图片资源\NewNormalWorld_Final\SecurityCamera.png	replaced_direct
+NormalWorld\InteractionEnvironment\Shelf.png	D:\unity资料\雷火图片资源\NewNormalWorld_Final\Shelf.png	replaced_direct
+NormalWorld\InteractionEnvironment\Table.png	D:\unity资料\雷火图片资源\NewNormalWorld_Final\Table.png	replaced_direct
+NormalWorld\InteractionEnvironment\Water.png	D:\unity资料\雷火图片资源\NewNormalWorld_Final\Water.png	replaced_direct
+NormalWorld\InteractionEnvironment\Window.png	D:\unity资料\雷火图片资源\NewNormalWorld_Final\Window.png	replaced_direct
+NormalWorld\Environment\Background.png	D:\unity资料\雷火图片资源\NewNormalWorld_Final\Background.png	replaced_direct
+NormalWorld\InteractionEnvironment\LeftBookshelf 1.png	D:\unity资料\雷火图片资源\NewNormalWorld_Final\LeftBookshelf.png	replaced_mapped name
+NormalWorld\InteractionEnvironment\RightBookshelf 1.png	D:\unity资料\雷火图片资源\NewNormalWorld_Final\RightBookshelf.png	replaced_mapped name
+NormalWorld\InteractionEnvironment\Map.png	D:\unity资料\雷火图片资源\NewNormalWorld_Final\Map.png	replaced_direct
+NormalWorld\InteractionEnvironment\Map 1.png	D:\unity资料\雷火图片资源\NewNormalWorld_Final\Map.png	replaced_mapped name
+UI\MainScence\Logo.png	D:\unity资料\雷火图片资源\NewNormalWorld_Final\Logo.png	replaced_direct
+UI\MainScence\UI01.png	D:\unity资料\雷火图片资源\NewNormalWorld_Final\UI01.png	replaced_direct
+UI\MainScence\UI02.png	D:\unity资料\雷火图片资源\NewNormalWorld_Final\UI02.png	replaced_direct
+UI\MainScence\UI03.png	D:\unity资料\雷火图片资源\NewNormalWorld_Final\UI03.png	replaced_direct
+UI\MainScence\UI04.png	D:\unity资料\雷火图片资源\NewNormalWorld_Final\UI04.png	replaced_direct
+UI\MainScence\UIBackground.jpg	D:\unity资料\雷火图片资源\NewNormalWorld_Final\UIBackground.jpg	replaced_direct
+UI\MainScence\MainScence\Logo.png	D:\unity资料\雷火图片资源\NewNormalWorld_Final\Logo.png	replaced_direct
+UI\MainScence\MainScence\UI01.png	D:\unity资料\雷火图片资源\NewNormalWorld_Final\UI01.png	replaced_direct
+UI\MainScence\MainScence\UI02.png	D:\unity资料\雷火图片资源\NewNormalWorld_Final\UI02.png	replaced_direct
+UI\MainScence\MainScence\UI03.png	D:\unity资料\雷火图片资源\NewNormalWorld_Final\UI03.png	replaced_direct
+UI\MainScence\MainScence\UI04.png	D:\unity资料\雷火图片资源\NewNormalWorld_Final\UI04.png	replaced_direct
+UI\MainScence\MainScence\UIBackground.jpg	D:\unity资料\雷火图片资源\NewNormalWorld_Final\UIBackground.jpg	replaced_direct
+UI\MainScence\MainScence\Logo 1.png	D:\unity资料\雷火图片资源\NewNormalWorld_Final\Logo.png	replaced_mapped name
+SpecialWorld\Environment\Background.png	D:\unity资料\雷火图片资源\NewSpecialWorld_Final\Background.png	replaced_direct
+SpecialWorld\Environment\Blood.png	D:\unity资料\雷火图片资源\NewSpecialWorld_Final\Blood.png	replaced_direct
+SpecialWorld\Environment\Blood2.png	D:\unity资料\雷火图片资源\NewSpecialWorld_Final\Blood2.png	replaced_direct
+SpecialWorld\Environment\UIBackground.jpg	D:\unity资料\雷火图片资源\NewSpecialWorld_Final\UIBackground.jpg	replaced_direct
+SpecialWorld\InteractionEnvironment\Books.png	D:\unity资料\雷火图片资源\NewSpecialWorld_Final\Books.png	replaced_direct
+SpecialWorld\InteractionEnvironment\Computer.png	D:\unity资料\雷火图片资源\NewSpecialWorld_Final\Computer.png	replaced_direct
+SpecialWorld\InteractionEnvironment\Cup.png	D:\unity资料\雷火图片资源\NewSpecialWorld_Final\Cup.png	replaced_direct
+SpecialWorld\InteractionEnvironment\Cup2.png	D:\unity资料\雷火图片资源\NewSpecialWorld_Final\Cup2.png	replaced_direct
+SpecialWorld\InteractionEnvironment\ElectricalPanel.png	D:\unity资料\雷火图片资源\NewSpecialWorld_Final\ElectricalPanel.png	replaced_direct
+SpecialWorld\InteractionEnvironment\HangingLamp.png	D:\unity资料\雷火图片资源\NewSpecialWorld_Final\HangingLamp.png	replaced_direct
+SpecialWorld\InteractionEnvironment\Map.png	D:\unity资料\雷火图片资源\NewSpecialWorld_Final\Map.png	replaced_direct
+SpecialWorld\InteractionEnvironment\Memo_01.png	D:\unity资料\雷火图片资源\NewSpecialWorld_Final\Memo_01.png	replaced_direct
+SpecialWorld\InteractionEnvironment\Memo_02.png	D:\unity资料\雷火图片资源\NewSpecialWorld_Final\Memo_02.png	replaced_direct
+SpecialWorld\InteractionEnvironment\Memo_03.png	D:\unity资料\雷火图片资源\NewSpecialWorld_Final\Memo_03.png	replaced_direct
+SpecialWorld\InteractionEnvironment\Memo_04.png	D:\unity资料\雷火图片资源\NewSpecialWorld_Final\Memo_04.png	replaced_direct
+SpecialWorld\InteractionEnvironment\Printer.png	D:\unity资料\雷火图片资源\NewSpecialWorld_Final\Printer.png	replaced_direct
+SpecialWorld\InteractionEnvironment\SecurityCamera.png	D:\unity资料\雷火图片资源\NewSpecialWorld_Final\SecurityCamera.png	replaced_direct
+SpecialWorld\InteractionEnvironment\Shelf.png	D:\unity资料\雷火图片资源\NewSpecialWorld_Final\Shelf.png	replaced_direct
+SpecialWorld\InteractionEnvironment\Water1.png	D:\unity资料\雷火图片资源\NewSpecialWorld_Final\Water1.png	replaced_direct
+SpecialWorld\InteractionEnvironment\Window.png	D:\unity资料\雷火图片资源\NewSpecialWorld_Final\Window.png	replaced_direct
+SpecialWorld\InteractionEnvironment\Window2.png	D:\unity资料\雷火图片资源\NewSpecialWorld_Final\Window2.png	replaced_direct
+SpecialWorld\InteractionEnvironment\Window3.png	D:\unity资料\雷火图片资源\NewSpecialWorld_Final\Window3.png	replaced_direct
+SpecialWorld\InteractionEnvironment\LeftBookShelf 1.png	D:\unity资料\雷火图片资源\NewSpecialWorld_Final\LeftBookShelf.png	replaced_mapped name
+SpecialWorld\InteractionEnvironment\RightBookShelf 1.png	D:\unity资料\雷火图片资源\NewSpecialWorld_Final\RightBookShelf.png	replaced_mapped name
+SpecialWorld\InteractionEnvironment\SpecialTable_01.png	D:\unity资料\雷火图片资源\NewSpecialWorld_Final\Table.png	replaced_mapped name
+NormalWorld\InteractionEnvironment\Selected\SelectedBook.png	D:\unity资料\雷火图片资源\NewNormalWorld_Final\Book.png	rebuilt_selected_state
+NormalWorld\InteractionEnvironment\Selected\SelectedBox.png	D:\unity资料\雷火图片资源\NewNormalWorld_Final\Box.png	rebuilt_selected_state
+NormalWorld\InteractionEnvironment\Selected\SelectedCup.png	D:\unity资料\雷火图片资源\NewNormalWorld_Final\Cup.png	rebuilt_selected_state
+NormalWorld\InteractionEnvironment\Selected\SelectedLeftBookshelf.png	D:\unity资料\雷火图片资源\NewNormalWorld_Final\LeftBookshelf.png	rebuilt_selected_state
+NormalWorld\InteractionEnvironment\Selected\SelectedMap.png	D:\unity资料\雷火图片资源\NewNormalWorld_Final\Map.png	rebuilt_selected_state
+NormalWorld\InteractionEnvironment\Selected\SelectedMiniBox.png	D:\unity资料\雷火图片资源\NewNormalWorld_Final\MiniBox.png	rebuilt_selected_state
+NormalWorld\InteractionEnvironment\Selected\SelectedPrinter.png	D:\unity资料\雷火图片资源\NewNormalWorld_Final\Printer.png	rebuilt_selected_state
+NormalWorld\InteractionEnvironment\Selected\SelectedRightBookshelf.png	D:\unity资料\雷火图片资源\NewNormalWorld_Final\RightBookshelf.png	rebuilt_selected_state
+NormalWorld\InteractionEnvironment\Selected\SelectedTable.png	D:\unity资料\雷火图片资源\NewNormalWorld_Final\Table.png	rebuilt_selected_state
+NormalWorld\InteractionEnvironment\Selected\SelectedWater.png	D:\unity资料\雷火图片资源\NewNormalWorld_Final\Water.png	rebuilt_selected_state
+NormalWorld\InteractionEnvironment\Selected\SelectedWindow.png	D:\unity资料\雷火图片资源\NewNormalWorld_Final\Window.png	rebuilt_selected_state

@@ -1,0 +1,377 @@
+{
+  "version": 1,
+  "templateId": "d3-reversed-condensation",
+  "sceneName": "Level_03",
+  "difficulty": 3,
+  "targetPairIds": [
+    "interactions-water"
+  ],
+  "targetRoutes": [
+    {
+      "normalTargetPairId": "interactions-water",
+      "specialTargetPairId": "interactions-window-1"
+    }
+  ],
+  "furniture": [
+    {
+      "pairId": "interactions-box",
+      "normalLines": [
+        "边角留着拖痕。",
+        "拖痕一侧灰尘被压平。"
+      ],
+      "specialLines": [
+        "边角有细裂纹。",
+        "里面传来很轻的敲声。"
+      ],
+      "normalTargetLines": [],
+      "specialTargetLines": []
+    },
+    {
+      "pairId": "interactions-camera",
+      "normalLines": [
+        "镜头停在奇怪的角度。",
+        "它拍到的方向比它本身更重要。"
+      ],
+      "specialLines": [
+        "镜头里有细噪点。",
+        "红光断续地闪。"
+      ],
+      "normalTargetLines": [],
+      "specialTargetLines": []
+    },
+    {
+      "pairId": "interactions-computer",
+      "normalLines": [
+        "屏幕残着一点微光。",
+        "像是接过某种信号，又很快熄掉。"
+      ],
+      "specialLines": [
+        "屏幕边缘闪着坏点。",
+        "机箱里有很轻的杂音。"
+      ],
+      "normalTargetLines": [],
+      "specialTargetLines": []
+    },
+    {
+      "pairId": "interactions-computer-1",
+      "normalLines": [
+        "屏幕关着，电源灯亮着。",
+        "键盘上落着一层薄灰。"
+      ],
+      "specialLines": [
+        "屏幕闪过一行光。",
+        "机箱里传出很轻的杂音。"
+      ],
+      "normalTargetLines": [],
+      "specialTargetLines": []
+    },
+    {
+      "pairId": "interactions-computer-2",
+      "normalLines": [
+        "机箱摸上去是温的。",
+        "屏幕边缘有一道细划痕。"
+      ],
+      "specialLines": [
+        "键盘有几个键按下去不回弹。",
+        "屏幕的反光比别处暗。"
+      ],
+      "normalTargetLines": [],
+      "specialTargetLines": []
+    },
+    {
+      "pairId": "interactions-computer-3",
+      "normalLines": [
+        "屏幕残着一点微光。",
+        "像是接过某种信号，又很快熄掉。"
+      ],
+      "specialLines": [
+        "屏幕边缘闪着坏点。",
+        "机箱里有很轻的杂音。"
+      ],
+      "normalTargetLines": [],
+      "specialTargetLines": []
+    },
+    {
+      "pairId": "interactions-computer-4",
+      "normalLines": [
+        "屏幕关着，电源灯亮着。",
+        "键盘上落着一层薄灰。"
+      ],
+      "specialLines": [
+        "屏幕闪过一行光。",
+        "机箱里传出很轻的杂音。"
+      ],
+      "normalTargetLines": [],
+      "specialTargetLines": []
+    },
+    {
+      "pairId": "interactions-electricalpanel",
+      "normalLines": [
+        "面板下方有冷汗。",
+        "水汽从地面贴上去。"
+      ],
+      "specialLines": [
+        "面板缝里有暗灰。",
+        "开关摸起来有些发冷。"
+      ],
+      "normalTargetLines": [],
+      "specialTargetLines": []
+    },
+    {
+      "pairId": "interactions-lamp-2",
+      "normalLines": [
+        "灯影有些偏。",
+        "偏移方向和吊线不一致。"
+      ],
+      "specialLines": [
+        "灯光忽明忽暗。",
+        "影子在墙上轻轻抖。"
+      ],
+      "normalTargetLines": [],
+      "specialTargetLines": []
+    },
+    {
+      "pairId": "interactions-lamp-3",
+      "normalLines": [
+        "灯罩边缘有一道细纹。",
+        "吊线拉得不太直。"
+      ],
+      "specialLines": [
+        "灯光偶尔低下去半拍。",
+        "影子在墙上轻轻抖。"
+      ],
+      "normalTargetLines": [],
+      "specialTargetLines": []
+    },
+    {
+      "pairId": "interactions-lamp-4",
+      "normalLines": [
+        "灯座上积着薄灰。",
+        "光斑落在桌面偏外一圈。"
+      ],
+      "specialLines": [
+        "灯罩里有一小团暗影。",
+        "光斑边缘有些发虚。"
+      ],
+      "normalTargetLines": [],
+      "specialTargetLines": []
+    },
+    {
+      "pairId": "interactions-lamp-5",
+      "normalLines": [
+        "灯影有些偏。",
+        "偏移方向和吊线不一致。"
+      ],
+      "specialLines": [
+        "灯光忽明忽暗。",
+        "影子在墙上轻轻抖。"
+      ],
+      "normalTargetLines": [],
+      "specialTargetLines": []
+    },
+    {
+      "pairId": "interactions-leftbookshelf",
+      "normalLines": [
+        "书脊有轻微错位。",
+        "被翻动的痕迹比灰尘更新。"
+      ],
+      "specialLines": [
+        "书页边缘发黑。",
+        "某几页像自己翻过。"
+      ],
+      "normalTargetLines": [],
+      "specialTargetLines": []
+    },
+    {
+      "pairId": "interactions-map",
+      "normalLines": [
+        "路线边缘有偏移。",
+        "墙钉没有松，纸面却歪了一点。"
+      ],
+      "specialLines": [
+        "路线边缘变暗。",
+        "多出的线条又慢慢退回去。"
+      ],
+      "normalTargetLines": [],
+      "specialTargetLines": []
+    },
+    {
+      "pairId": "interactions-memo",
+      "normalLines": [
+        "纸面只剩残缺记录。",
+        "它更像提示，不像物件本身的问题。"
+      ],
+      "specialLines": [
+        "纸面发暗。",
+        "字迹像被人用湿手抹过。"
+      ],
+      "normalTargetLines": [],
+      "specialTargetLines": []
+    },
+    {
+      "pairId": "interactions-memo-1",
+      "normalLines": [
+        "纸上只有一圈倒着的水印。",
+        "墨迹向水印中心收回。"
+      ],
+      "specialLines": [
+        "纸面发暗。",
+        "字迹像被人用湿手抹过。"
+      ],
+      "normalTargetLines": [],
+      "specialTargetLines": []
+    },
+    {
+      "pairId": "interactions-memo-2",
+      "normalLines": [
+        "便签一角卷起。",
+        "胶带只粘住一小边。"
+      ],
+      "specialLines": [
+        "纸面发暗。",
+        "字迹像被湿手抹过。"
+      ],
+      "normalTargetLines": [],
+      "specialTargetLines": []
+    },
+    {
+      "pairId": "interactions-memo-3",
+      "normalLines": [
+        "纸面有些发黄。",
+        "折痕处磨得发白。"
+      ],
+      "specialLines": [
+        "纸角微微发潮。",
+        "上面的字像在慢慢变淡。"
+      ],
+      "normalTargetLines": [],
+      "specialTargetLines": []
+    },
+    {
+      "pairId": "interactions-printer",
+      "normalLines": [
+        "纸槽干，外壳却冷。",
+        "冷意来自地面。"
+      ],
+      "specialLines": [
+        "纸槽里有灰。",
+        "出纸口像还带着余温。"
+      ],
+      "normalTargetLines": [],
+      "specialTargetLines": []
+    },
+    {
+      "pairId": "interactions-shelf",
+      "normalLines": [
+        "隔板上的灰尘断开。",
+        "缺口像被什么轻轻扫过。"
+      ],
+      "specialLines": [
+        "隔板渗出黑点。",
+        "黑点沿木纹排成线。"
+      ],
+      "normalTargetLines": [],
+      "specialTargetLines": []
+    },
+    {
+      "pairId": "interactions-shelf-1",
+      "normalLines": [
+        "隔板上落着灰。",
+        "靠墙的一侧积得更多。"
+      ],
+      "specialLines": [
+        "隔板边缘有细黑点。",
+        "黑点像从别处落下来的。"
+      ],
+      "normalTargetLines": [],
+      "specialTargetLines": []
+    },
+    {
+      "pairId": "interactions-shelf-2",
+      "normalLines": [
+        "架子摆放得不太正。",
+        "最上层的东西靠得很边。"
+      ],
+      "specialLines": [
+        "架子的影子偏了一格。",
+        "实物和影子对不上。"
+      ],
+      "normalTargetLines": [],
+      "specialTargetLines": []
+    },
+    {
+      "pairId": "interactions-shelf-3",
+      "normalLines": [
+        "隔板上的灰尘断开。",
+        "缺口像被什么轻轻扫过。"
+      ],
+      "specialLines": [
+        "隔板渗出黑点。",
+        "黑点沿木纹排成线。"
+      ],
+      "normalTargetLines": [],
+      "specialTargetLines": []
+    },
+    {
+      "pairId": "interactions-table",
+      "normalLines": [
+        "桌面有新的压痕。",
+        "压痕旁边的灰被推开。"
+      ],
+      "specialLines": [
+        "桌脚粘着暗灰。",
+        "灰沿着地面爬了一小段。"
+      ],
+      "normalTargetLines": [],
+      "specialTargetLines": []
+    },
+    {
+      "pairId": "interactions-water",
+      "normalLines": [
+        "桶外壁没有向下滴。",
+        "水纹像从远处回到桶脚。"
+      ],
+      "specialLines": [
+        "桶身结着冷汗。",
+        "水面偶尔泛起细纹。"
+      ],
+      "normalTargetLines": [
+        "水印反向汇到桶边。",
+        "别处只是受潮，这里像在倒吸潮气。",
+        "纸上的倒水印和桶脚水纹方向一致。"
+      ],
+      "specialTargetLines": []
+    },
+    {
+      "pairId": "interactions-window",
+      "normalLines": [
+        "窗雾很薄，边缘正常。",
+        "潮气只是擦过玻璃。"
+      ],
+      "specialLines": [
+        "窗框轻轻作响。",
+        "玻璃里的倒影慢半拍。"
+      ],
+      "normalTargetLines": [],
+      "specialTargetLines": []
+    },
+    {
+      "pairId": "interactions-window-1",
+      "normalLines": [
+        "玻璃上有薄雾，但中心是清的。",
+        "水汽贴着边走，没有盖住窗面。",
+        "如果方向被反过来，这扇窗可能是退路。"
+      ],
+      "specialLines": [
+        "窗框轻轻作响。",
+        "玻璃里的倒影慢半拍。"
+      ],
+      "normalTargetLines": [],
+      "specialTargetLines": [
+        "这扇窗看起来比其他的崭新。",
+        "玻璃清亮，没有雾气。",
+        "看出去，闷感散开。"
+      ]
+    }
+  ]
+}
